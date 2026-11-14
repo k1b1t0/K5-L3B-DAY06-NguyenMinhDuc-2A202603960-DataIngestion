@@ -12,8 +12,7 @@ class PgVectorStore:
     def __init__(self, database_url: str | None = None, dimensions: int = 768) -> None:
         """Retain connection settings; validate model dimensions."""
         if not database_url:
-            load_dotenv()
-            load_dotenv(Path(__file__).resolve().parent.parent / ".env")
+            load_dotenv(Path(__file__).resolve().parents[1] / ".env", override=True)
             database_url = os.getenv("DATABASE_URL")
         if not database_url:
             raise ValueError("DATABASE_URL is not set.")

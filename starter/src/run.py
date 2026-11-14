@@ -1,12 +1,15 @@
 """Pipeline entry point for Day 06 Data Ingestion."""
 import json
+import sys
 from pathlib import Path
+
+sys.path.append(".")
+
 from starter.src.chunking import by_paragraph, fixed_size
 from starter.src.embeddings import MyEmbedder
 from starter.src.evaluation import evaluate_query, summarize
 from starter.src.ingestion import load_html
 from starter.src.store import PgVectorStore
-
 
 def main() -> None:
     # 1. Ingestion & Chunking
@@ -20,9 +23,10 @@ def main() -> None:
     embedder = MyEmbedder()
 
     for strat, chunks in [("A", chunks_a), ("B", chunks_b)]:
-        if store.count(strat) < len(chunks):
-            print(f"Ingesting Strategy {strat} ({len(chunks)} chunks)...")
-            for i in range(0, len(chunks), 50):
+        start_idx = store.count(strat)
+        if start_idx < len(chunks):
+            print(f"Ingesting Strategy {strat} ({start_idx}/{len(chunks)} already in DB)...")
+            for i in range(start_idx, len(chunks), 50):
                 batch = chunks[i : i + 50]
                 vecs = embedder.embed_documents([c.text for c in batch])
                 store.upsert(strat, batch, vecs)

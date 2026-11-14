@@ -1,0 +1,104 @@
+[
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "question": "What fundamental advice did Nick Carraway's father give him in his younger years regarding judging other people?",
+    "strategy": "A",
+    "gold_page": 1,
+    "evidence_quote": "all the people in this world haven’t had the advantages that you’ve had",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p1_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 1,
+        "text": "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.\n\n“Whenever you feel like criticizing anyone,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”\n\nHe didn’t say any more, but we’ve always been unusually communicative in a reserved way, and I understood that he meant a great deal more than that. In consequence, I’m inclined to reserve all judgements, a habit that has open",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.7872643789931995
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p1_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 1,
+        "text": "d to reserve all judgements, a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores. The abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person, and so it came about that in college I was unjustly accused of being a politician, because I was privy to the secret griefs of wild, unknown men. Most of the confidences were unsought—frequently I have feigned sleep, preoccupation, or a hostile levity wh",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.6289550938377217
+      }
+    ]
+  },
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "question": "What fundamental advice did Nick Carraway's father give him in his younger years regarding judging other people?",
+    "strategy": "B",
+    "gold_page": 1,
+    "evidence_quote": "all the people in this world haven’t had the advantages that you’ve had",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p1_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 1,
+        "text": "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.\n\n“Whenever you feel like criticizing anyone,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.7572793615654878
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p1_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 1,
+        "text": "He didn’t say any more, but we’ve always been unusually communicative in a reserved way, and I understood that he meant a great deal more than that. In consequence, I’m inclined to reserve all judgements, a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores. The abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person, and so it came about that in college I was unjustly accused of being a politician, because I was privy to the secret griefs of wild, unknown men. Most of the confidences were unsought—frequently I have feigned sleep, preoccupation, or a hostile levity when I realized by some unmistakable sign that an intimate revelation was quivering on the horizon; for the intimate revelations of young men, or at least the terms in which they express them, are usually plagiaristic and marred by obvious suppressions. Reserving judgements is a matter of infinite hope. I am still a little afraid of missing something if I forget that, as my father snobbishly suggested, and I snobbishly repeat, a sense of the fundamental decencies is parcelled out unequally at birth.",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.6945741095259996
+      }
+    ]
+  },
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "question": "What fundamental advice did Nick Carraway's father give him in his younger years regarding judging other people?",
+    "strategy": "C",
+    "gold_page": 1,
+    "evidence_quote": "all the people in this world haven’t had the advantages that you’ve had",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p1_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 1,
+        "text": "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.\n\n“Whenever you feel like criticizing anyone,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.7572793615654878
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p1_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 1,
+        "text": "He didn’t say any more, but we’ve always been unusually communicative in a reserved way, and I understood that he meant a great deal more than that. In consequence, I’m inclined to reserve all judgements, a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores. The abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person, and so it came about that in college I was unjustly accused of being a politician, because I was privy to the secret griefs of wild, unknown men. Most of the confidences were unsought—frequently I have feigned sleep, preoccupation, or a hostile levity when I realized by some unmistakable sign that an intimate revelation was quivering on the horizon; for the intimate revelations of young men, or at least the terms in which they express them, are usually plagiaristic and marred by obvious suppressions. Reserving judgements is a matter of infinite hope. I am still a little afraid of missing something if I forget that, as my father snobbishly suggested, and I snobbishly repeat, a sense of the fundamental decencies is parcelled out unequally at birth.",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.6945741095259996
+      }
+    ]
+  }
+]

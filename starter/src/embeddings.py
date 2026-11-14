@@ -7,8 +7,7 @@ from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 
-load_dotenv()
-load_dotenv(Path(__file__).resolve().parent.parent / ".env")
+load_dotenv(Path(__file__).resolve().parents[1] / ".env", override=True)
 
 
 class Embedder(Protocol):
@@ -30,7 +29,7 @@ class MyEmbedder:
     def __init__(self, model_name: str = "gemini-embedding-001", dimensions: int = 768) -> None:
         self.api_key = os.getenv("GEMINI_API_KEY")
         if not self.api_key:
-            raise ValueError("GEMINI_API_KEY is not set in environment or .env file.")
+            raise ValueError("GEMINI_API_KEY is not set in environment or starter/.env file.")
 
         self.model_name = model_name
         self.dimensions = dimensions
@@ -41,7 +40,7 @@ class MyEmbedder:
         all_vectors: list[list[float]] = []
         for i in range(0, len(texts), batch_size):
             batch = texts[i : i + batch_size]
-            for attempt in range(5):
+            for attempt in range(10):
                 try:
                     response = self.client.models.embed_content(
                         model=self.model_name,
@@ -52,9 +51,9 @@ class MyEmbedder:
                         all_vectors.append(emb.values)
                     break
                 except Exception as e:
-                    if attempt < 4 and ("429" in str(e) or "quota" in str(e).lower() or "resource" in str(e).lower()):
-                        wait = 2 ** attempt + 1
-                        time.sleep(wait)
+                    if "429" in str(e) or "quota" in str(e).lower() or "resource" in str(e).lower():
+                        print(f"  [429 Quota] Waiting 10s for Gemini quota window to refresh...")
+                        time.sleep(10)
                     else:
                         raise e
             time.sleep(0.5)
@@ -62,7 +61,7 @@ class MyEmbedder:
 
     def embed_query(self, question: str) -> list[float]:
         """Embed a single query question with retry."""
-        for attempt in range(5):
+        for attempt in range(10):
             try:
                 response = self.client.models.embed_content(
                     model=self.model_name,
@@ -71,8 +70,9 @@ class MyEmbedder:
                 )
                 return response.embeddings[0].values
             except Exception as e:
-                if attempt < 4 and ("429" in str(e) or "quota" in str(e).lower() or "resource" in str(e).lower()):
-                    time.sleep(2 ** attempt + 1)
+                if "429" in str(e) or "quota" in str(e).lower() or "resource" in str(e).lower():
+                    print(f"  [429 Quota] Waiting 10s for Gemini quota window to refresh...")
+                    time.sleep(10)
                 else:
                     raise e
         raise RuntimeError("Failed to embed query after retries.")
