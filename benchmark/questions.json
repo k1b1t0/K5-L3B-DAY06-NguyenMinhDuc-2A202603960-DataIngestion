@@ -1,0 +1,228 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "direct",
+    "question": "What fundamental advice did Nick Carraway's father give him in his younger years regarding judging other people?",
+    "expected_answer": "Remember that all the people in this world haven't had the advantages that Nick had.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "all the people in this world haven’t had the advantages that you’ve had",
+    "filter": null,
+    "gold_page": 1
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "detail",
+    "question": "What occupational hazard caused the Buchanans' butler to lose his former silver-polishing job in New York?",
+    "expected_answer": "Polishing a silver service for two hundred people from morning till night began to affect his nose.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "He had to polish it from morning till night, until finally it began to affect his nose",
+    "filter": null,
+    "gold_page": 12
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "description",
+    "question": "Describe the peculiar features and scale of the oculist advertisement overlooking the valley of ashes.",
+    "expected_answer": "The eyes of Doctor T. J. Eckleburg are blue and gigantic with retinas one yard high, looking from enormous yellow spectacles without a face.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "The eyes of Doctor T. J. Eckleburg are blue and gigantic—their retinas are one yard high",
+    "filter": null,
+    "gold_page": 20
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "direct",
+    "question": "What specific discovery made Myrtle Wilson realize that her marriage to George Wilson was a terrible mistake?",
+    "expected_answer": "She found out that George had secretly borrowed another man's suit to get married in.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "He borrowed somebody’s best suit to get married in, and never even told me about it",
+    "filter": null,
+    "gold_page": 31
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "filter_test",
+    "question": "In Chapter 2, what violent physical altercation occurred between Tom Buchanan and Myrtle when she shouted Daisy's name?",
+    "expected_answer": "Tom broke Myrtle's nose with his open hand.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
+    "filter": {
+      "chapter": "Chapter 2"
+    },
+    "gold_page": 33
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "detail",
+    "question": "What specialized mechanical device was in Gatsby's kitchen to prepare fresh citrus juice for his weekend parties?",
+    "expected_answer": "A machine that could juice 200 oranges in half an hour if a button was pressed 200 times by a butler's thumb.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb",
+    "filter": null,
+    "gold_page": 34
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "What surprising revelation did the stout owl-eyed guest discover about the library in Gatsby's mansion?",
+    "expected_answer": "The books on the shelves were bona-fide real printed matter with genuine pages, not fake cardboard.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "It’s a bona-fide piece of printed matter. It fooled me. This fella’s a regular Belasco",
+    "filter": null,
+    "gold_page": 40
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "exception",
+    "question": "Who was actually driving the coupé that sheared its wheel and ended up in the ditch after Gatsby's party?",
+    "expected_answer": "Owl Eyes was not driving; a second, pale man was behind the wheel.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "I wasn’t driving. There’s another man in the car",
+    "filter": null,
+    "gold_page": 48
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "What past sporting scandal was whispered about Jordan Baker during her first big golf tournament?",
+    "expected_answer": "She allegedly moved her ball from an unfavorable lie in the semifinal round.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "she had moved her ball from a bad lie in the semifinal round",
+    "filter": null,
+    "gold_page": 51
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "direct",
+    "question": "What specific war medal did Gatsby display to Nick as tangible proof of his heroism in the Great War?",
+    "expected_answer": "An Orderi di Danilo medal from Montenegro engraved \"Major Jay Gatsby For Valour Extraordinary\".",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "Orderi di Danilo",
+    "filter": null,
+    "gold_page": 58
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "filter_test",
+    "question": "In Chapter 4, what gruesome item did Meyer Wolfshiem boast that his cuff buttons were crafted from?",
+    "expected_answer": "Finest specimens of human molars.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "Finest specimens of human molars",
+    "filter": {
+      "chapter": "Chapter 4"
+    },
+    "gold_page": 63
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "direct",
+    "question": "What notorious national betting feat was Meyer Wolfshiem credited with orchestrating in 1919?",
+    "expected_answer": "He fixed the 1919 World's Series.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "He’s the man who fixed the World’s Series back in 1919",
+    "filter": null,
+    "gold_page": 64
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "direct",
+    "question": "What physical incident happened to the mantelpiece clock when Gatsby nervously met Daisy at Nick's cottage?",
+    "expected_answer": "Gatsby tilted the defunct clock dangerously with the pressure of his head and caught it with trembling fingers.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "His head leaned back so far that it rested against the face of a defunct mantelpiece clock",
+    "filter": null,
+    "gold_page": 76
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "What unexpected sight caused Daisy Buchanan to sob uncontrollably into a pile of fabric during her tour of Gatsby's bedroom?",
+    "expected_answer": "Gatsby's lavish collection of colorful imported shirts from England.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "They’re such beautiful shirts",
+    "filter": null,
+    "gold_page": 82
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "detail",
+    "question": "Why did young James Gatz leave St. Olaf's College in southern Minnesota after attending for merely two weeks?",
+    "expected_answer": "He felt it was indifferent to his destiny and despised working as a janitor to pay his way.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "St. Olaf’s in southern Minnesota",
+    "filter": null,
+    "gold_page": 87
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "type": "direct",
+    "question": "How much money did Dan Cody leave Gatsby in his legacy, and why did Gatsby never receive it?",
+    "expected_answer": "Cody left him twenty-five thousand dollars, but legal maneuvers by Ella Kaye prevented him from receiving it.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "inherited money—a legacy of twenty-five thousand dollars. He didn’t get it",
+    "filter": null,
+    "gold_page": 89
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "filter_test",
+    "question": "In Chapter 7, what famous observation did Gatsby make about the hypnotic charm of Daisy's voice?",
+    "expected_answer": "Gatsby remarked that her voice is full of money.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "Her voice is full of money",
+    "filter": {
+      "chapter": "Chapter 7"
+    },
+    "gold_page": 105
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "clarification",
+    "question": "Why did Gatsby admit to Tom Buchanan that he could not honestly label himself an Oxford man?",
+    "expected_answer": "He only stayed there for five months in 1919 through an armistice opportunity given to Allied officers.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "It was in nineteen-nineteen, I only stayed five months. That’s why I can’t really call myself an Oxford man",
+    "filter": null,
+    "gold_page": 113
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "multi_hop",
+    "question": "What suspicious object did George Wilson show Michaelis from his office desk drawer after originally discovering it wrapped in tissue paper on Myrtle's bureau the afternoon before?",
+    "expected_answer": "A new, small, expensive dog-leash made of leather and braided silver.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "small, expensive dog-leash, made of leather and braided silver",
+    "filter": null,
+    "gold_page": 139
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "exception",
+    "question": "Aside from Nick Carraway, Henry C. Gatz, the Lutheran minister, the West Egg postman, and a few servants who rode in the three-car funeral procession, which former party guest unexpectedly arrived in a separate car at the cemetery gate for Gatsby's burial?",
+    "expected_answer": "The man with owl-eyed glasses who had marveled over the real printed books in Gatsby's library three months earlier.",
+    "gold_source_id": "the-great-gatsby",
+    "evidence_quote": "It was the man with owl-eyed glasses whom I had found marvelling over Gatsby’s books in the library one night three months before",
+    "filter": null,
+    "gold_page": 154
+  }
+]

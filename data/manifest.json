@@ -1,0 +1,77 @@
+{
+  "source_id": "the-great-gatsby",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "source_path_or_url": "https://www.gutenberg.org/ebooks/64317",
+  "local_path": "data/the_great_gatsby.html",
+  "license_or_permission": "Public Domain (Project Gutenberg License)",
+  "accessed_at": "2026-11-14",
+  "total_pages": 167,
+  "total_characters": 267160,
+  "page_partition_rule": "Chuẩn hóa Unicode NFKC, gom các đoạn văn <p> theo từng chương vào các đơn vị trang ảo có độ dài tối thiểu 1.500 ký tự (giữ nguyên ranh giới đoạn). Mỗi chương bắt đầu trên trang mới.",
+  "chapters": [
+    {
+      "chapter": "Chapter 1",
+      "page_range": [
+        1,
+        19
+      ]
+    },
+    {
+      "chapter": "Chapter 2",
+      "page_range": [
+        20,
+        34
+      ]
+    },
+    {
+      "chapter": "Chapter 3",
+      "page_range": [
+        35,
+        54
+      ]
+    },
+    {
+      "chapter": "Chapter 4",
+      "page_range": [
+        55,
+        73
+      ]
+    },
+    {
+      "chapter": "Chapter 5",
+      "page_range": [
+        74,
+        88
+      ]
+    },
+    {
+      "chapter": "Chapter 6",
+      "page_range": [
+        89,
+        102
+      ]
+    },
+    {
+      "chapter": "Chapter 7",
+      "page_range": [
+        103,
+        133
+      ]
+    },
+    {
+      "chapter": "Chapter 8",
+      "page_range": [
+        134,
+        149
+      ]
+    },
+    {
+      "chapter": "Chapter 9",
+      "page_range": [
+        150,
+        167
+      ]
+    }
+  ]
+}
