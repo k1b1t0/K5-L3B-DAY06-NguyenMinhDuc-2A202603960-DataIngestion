@@ -45,3 +45,36 @@ Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **1
 | Cách nộp bài | [SUBMISSION.md](SUBMISSION.md) |
 
 [data/format-example.json](data/format-example.json) chỉ minh họa định dạng, không phải corpus đủ điều kiện. Phần xử lý và benchmark do bạn tự hiện thực; không bắt buộc xây chatbot.
+
+---
+
+## Hướng dẫn chạy và tái lập (Reproduction)
+
+1. **Khởi động cơ sở dữ liệu PostgreSQL + pgvector:**
+   ```bash
+   docker compose -f starter/docker-compose.yml up -d
+   ```
+
+2. **Khởi tạo môi trường ảo với `uv`:**
+   ```bash
+   uv venv
+   source .venv/bin/activate
+   uv pip install -r starter/requirements.txt google-genai beautifulsoup4 python-dotenv
+   ```
+
+3. **Cấu hình môi trường (`starter/.env`):**
+   ```env
+   DATABASE_URL=postgresql://day6:day6_local_only@127.0.0.1:55433/day6_lab
+   GEMINI_API_KEY=AIzaSy...
+   EMBEDDING_MODEL=gemini-embedding-001
+   ```
+
+4. **Chạy toàn bộ Ingestion & Benchmark Pipeline:**
+   ```bash
+   uv run python starter/src/run.py
+   ```
+   - Kết quả traces chi tiết: `results/traces.json`
+   - Bảng tổng hợp số liệu: `results/summary.json`
+   - Báo cáo thí nghiệm: `artifacts/experiment_log.csv`
+   - Báo cáo cá nhân: `report/individual/2A202603960_NguyenMinhDuc.md`
+
