@@ -52,8 +52,9 @@ class PgVectorStore:
         for chunk, vector in zip(chunks, vectors):
             if len(vector) != self.dimensions:
                 raise ValueError(f"Vector dim {len(vector)} does not match store dim {self.dimensions}.")
+            chunk_pk = f"{strategy}_{chunk.chunk_id}" if not chunk.chunk_id.startswith(f"{strategy}_") else chunk.chunk_id
             rows.append((
-                chunk.chunk_id,
+                chunk_pk,
                 strategy,
                 chunk.document_id,
                 chunk.source,
@@ -122,3 +123,11 @@ class PgVectorStore:
                         "score": float(row[6]),
                     })
         return results
+
+    def count(self, strategy: str) -> int:
+        """Count existing chunks for a given strategy."""
+        with psycopg.connect(self.database_url) as conn:
+            with conn.cursor() as cur:
+                cur.execute("SELECT count(*) FROM chunks WHERE strategy = %s;", (strategy,))
+                row = cur.fetchone()
+                return int(row[0]) if row else 0
