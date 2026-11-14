@@ -1,13 +1,22 @@
 """Store and search vectors using PostgreSQL + pgvector."""
 import json
+import os
+from pathlib import Path
 from typing import Any
+from dotenv import load_dotenv
 import psycopg
 from .models import Chunk
 
 
 class PgVectorStore:
-    def __init__(self, database_url: str, dimensions: int) -> None:
+    def __init__(self, database_url: str | None = None, dimensions: int = 768) -> None:
         """Retain connection settings; validate model dimensions."""
+        if not database_url:
+            load_dotenv()
+            load_dotenv(Path(__file__).resolve().parent.parent / ".env")
+            database_url = os.getenv("DATABASE_URL")
+        if not database_url:
+            raise ValueError("DATABASE_URL is not set.")
         self.database_url = database_url
         self.dimensions = dimensions
 
