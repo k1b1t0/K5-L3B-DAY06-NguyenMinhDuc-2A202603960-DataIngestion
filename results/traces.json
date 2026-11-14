@@ -21,15 +21,881 @@
         "score": 0.7872643789931995
       },
       {
-        "chunk_id": "A_the-great-gatsby_p1_c1",
+        "chunk_id": "A_the-great-gatsby_p17_c2",
         "document_id": "the-great-gatsby",
         "source": "data/the_great_gatsby.html",
-        "page": 1,
-        "text": "d to reserve all judgements, a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores. The abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person, and so it came about that in college I was unjustly accused of being a politician, because I was privy to the secret griefs of wild, unknown men. Most of the confidences were unsought—frequently I have feigned sleep, preoccupation, or a hostile levity wh",
+        "page": 17,
+        "text": "nice girl,” said Tom after a moment. “They oughtn’t to let her run around the country this way.”\n\n“Who oughtn’t to?” inquired Daisy coldly.\n\n“Her family.”\n\n“Her family is one aunt about a thousand years old. Besides, Nick’s going to look after her, aren’t you, Nick? She’s going to spend lots of weekends out here this summer. I think the home influence will be very good for her.”\n\nDaisy and Tom looked at each other for a moment in silence.\n\n“Is she from New York?” I asked quickly.\n\n“From Louisvi",
         "metadata": {
           "chapter": "Chapter 1"
         },
-        "score": 0.6289550938377217
+        "score": 0.6533470213000911
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p56_c2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 56,
+        "text": "fore Gatsby began leaving his elegant sentences unfinished and slapping himself indecisively on the knee of his caramel-coloured suit.\n\n“Look here, old sport,” he broke out surprisingly, “what’s your opinion of me, anyhow?”\n\nA little overwhelmed, I began the generalized evasions which that question deserves.\n\n“Well, I’m going to tell you something about my life,” he interrupted. “I don’t want you to get a wrong idea of me from all these stories you hear.”\n\nSo he was aware of the bizarre accusati",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.650678785386451
+      }
+    ]
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "question": "What occupational hazard caused the Buchanans' butler to lose his former silver-polishing job in New York?",
+    "strategy": "A",
+    "gold_page": 12,
+    "evidence_quote": "He had to polish it from morning till night, until finally it began to affect his nose",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p12_c2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 12,
+        "text": "inside and the butler left the porch Daisy seized upon the momentary interruption and leaned towards me.\n\n“I’ll tell you a family secret,” she whispered enthusiastically. “It’s about the butler’s nose. Do you want to hear about the butler’s nose?”\n\n“That’s why I came over tonight.”\n\n“Well, he wasn’t always a butler; he used to be the silver polisher for some people in New York that had a silver service for two hundred people. He had to polish it from morning till night, until finally it began to",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.6629650204065284
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p88_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 88,
+        "text": "hite duck trousers, and a yachting cap. And when the Tuolomee left for the West Indies and the Barbary Coast, Gatsby left too.\n\nHe was employed in a vague personal capacity—while he remained with Cody he was in turn steward, mate, skipper, secretary, and even jailor, for Dan Cody sober knew what lavish doings Dan Cody drunk might soon be about, and he provided for such contingencies by reposing more and more trust in Gatsby. The arrangement lasted five years, during which the boat went three tim",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.6254057884749408
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p99_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 99,
+        "text": "It was when curiosity about Gatsby was at its highest that the lights in his house failed to go on one Saturday night—and, as obscurely as it had begun, his career as Trimalchio was over. Only gradually did I become aware that the automobiles which turned expectantly into his drive stayed for just a minute and then drove sulkily away. Wondering if he were sick I went over to find out—an unfamiliar butler with a villainous face squinted at me suspiciously from the door.\n\n“Is Mr. Gatsby sick?”\n\n“N",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.6241934266735608
+      }
+    ]
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "question": "Describe the peculiar features and scale of the oculist advertisement overlooking the valley of ashes.",
+    "strategy": "A",
+    "gold_page": 20,
+    "evidence_quote": "The eyes of Doctor T. J. Eckleburg are blue and gigantic—their retinas are one yard high",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p20_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 20,
+        "text": "But above the grey land and the spasms of bleak dust which drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J. Eckleburg are blue and gigantic—their retinas are one yard high. They look out of no face, but, instead, from a pair of enormous yellow spectacles which pass over a nonexistent nose. Evidently some wild wag of an oculist set them there to fatten his practice in the borough of Queens, and then sank down himself into eternal",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.777445007109247
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p141_c2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 141,
+        "text": "thing you’ve been doing. You may fool me, but you can’t fool God!’ ”\n\nStanding behind him, Michaelis saw with a shock that he was looking at the eyes of Doctor T. J. Eckleburg, which had just emerged, pale and enormous, from the dissolving night.\n\n“God sees everything,” repeated Wilson.\n\n“That’s an advertisement,” Michaelis assured him. Something made him turn away from the window and look back into the room. But Wilson stood there a long time, his face close to the window pane, nodding into the",
+        "metadata": {
+          "chapter": "Chapter 8"
+        },
+        "score": 0.71979614151432
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p109_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 109,
+        "text": "ence or race, so profound as the difference between the sick and the well. Wilson was so sick that he looked guilty, unforgivably guilty—as if he had just got some poor girl with child.\n\n“I’ll let you have that car,” said Tom. “I’ll send it over tomorrow afternoon.”\n\nThat locality was always vaguely disquieting, even in the broad glare of afternoon, and now I turned my head as though I had been warned of something behind. Over the ash-heaps the giant eyes of Doctor T. J. Eckleburg kept their vig",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.6992357330726899
+      }
+    ]
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "question": "What specific discovery made Myrtle Wilson realize that her marriage to George Wilson was a terrible mistake?",
+    "strategy": "A",
+    "gold_page": 31,
+    "evidence_quote": "He borrowed somebody’s best suit to get married in, and never even told me about it",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p31_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 31,
+        "text": "“Crazy about him!” cried Myrtle incredulously. “Who said I was crazy about him? I never was any more crazy about him than I was about that man there.”\n\nShe pointed suddenly at me, and everyone looked at me accusingly. I tried to show by my expression that I expected no affection.\n\n“The only crazy I was was when I married him. I knew right away I made a mistake. He borrowed somebody’s best suit to get married in, and never even told me about it, and the man came after it one day when he was out:",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.7398208959123784
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p30_c2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 30,
+        "text": "ow me. Everybody kept saying to me: ‘Lucille, that man’s way below you!’ But if I hadn’t met Chester, he’d of got me sure.”\n\n“Yes, but listen,” said Myrtle Wilson, nodding her head up and down, “at least you didn’t marry him.”\n\n“I know I didn’t.”\n\n“Well, I married him,” said Myrtle, ambiguously. “And that’s the difference between your case and mine.”\n\n“Why did you, Myrtle?” demanded Catherine. “Nobody forced you to.”\n\nMyrtle considered.\n\n“I married him because I thought he was a gentleman,” she",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.7105456823298956
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p109_c3",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 109,
+        "text": "owly developing picture. Her expression was curiously familiar—it was an expression I had often seen on women’s faces, but on Myrtle Wilson’s face it seemed purposeless and inexplicable until I realized that her eyes, wide with jealous terror, were fixed not on Tom, but on Jordan Baker, whom she took to be his wife.",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7005438087792898
+      }
+    ]
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "question": "In Chapter 2, what violent physical altercation occurred between Tom Buchanan and Myrtle when she shouted Daisy's name?",
+    "strategy": "A",
+    "gold_page": 33,
+    "evidence_quote": "Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p33_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 33,
+        "text": "! Daisy!” shouted Mrs. Wilson. “I’ll say it whenever I want to! Daisy! Dai—”\n\nMaking a short deft movement, Tom Buchanan broke her nose with his open hand.\n\nThen there were bloody towels upon the bathroom floor, and women’s voices scolding, and high over the confusion a long broken wail of pain. Mr. McKee awoke from his doze and started in a daze toward the door. When he had gone halfway he turned around and stared at the scene—his wife and Catherine scolding and consoling as they stumbled here",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.7648877605407719
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p102_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 102,
+        "text": "Tom flung open the door, blocked out its space for a moment with his thick body, and hurried into the room.\n\n“Mr. Gatsby!” He put out his broad, flat hand with well-concealed dislike. “I’m glad to see you, sir... Nick...”\n\n“Make us a cold drink,” cried Daisy.\n\nAs he left the room again she got up and went over to Gatsby and pulled his face down, kissing him on the mouth.\n\n“You know I love you,” she murmured.\n\n“You forget there’s a lady present,” said Jordan.\n\nDaisy looked around doubtfully.\n\n“Yo",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.686941614040815
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p118_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 118,
+        "text": "“I’m not?” Tom opened his eyes wide and laughed. He could afford to control himself now. “Why’s that?”\n\n“Daisy’s leaving you.”\n\n“Nonsense.”\n\n“I am, though,” she said with a visible effort.\n\n“She’s not leaving me!” Tom’s words suddenly leaned down over Gatsby. “Certainly not for a common swindler who’d have to steal the ring he put on her finger.”\n\n“I won’t stand this!” cried Daisy. “Oh, please let’s get out.”\n\n“Who are you, anyhow?” broke out Tom. “You’re one of that bunch that hangs around with",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.6796594803799092
+      }
+    ]
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "question": "What specialized mechanical device was in Gatsby's kitchen to prepare fresh citrus juice for his weekend parties?",
+    "strategy": "A",
+    "gold_page": 34,
+    "evidence_quote": "extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb",
+    "hit@1": false,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p35_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 35,
+        "text": "At least once a fortnight a corps of caterers came down with several hundred feet of canvas and enough coloured lights to make a Christmas tree of Gatsby’s enormous garden. On buffet tables, garnished with glistening hors-d’oeuvre, spiced baked hams crowded against salads of harlequin designs and pastry pigs and turkeys bewitched to a dark gold. In the main hall a bar with a real brass rail was set up, and stocked with gins and liquors and with cordials so long forgotten that most of his female",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7005953278364502
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p34_c2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 34,
+        "text": "d long past midnight, while his station wagon scampered like a brisk yellow bug to meet all trains. And on Mondays eight servants, including an extra gardener, toiled all day with mops and scrubbing-brushes and hammers and garden-shears, repairing the ravages of the night before.\n\nEvery Friday five crates of oranges and lemons arrived from a fruiterer in New York—every Monday these same oranges and lemons left his back door in a pyramid of pulpless halves. There was a machine in the kitchen whic",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7001571219470215
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p34_c3",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 34,
+        "text": "ss halves. There was a machine in the kitchen which could extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.6736986018243653
+      }
+    ]
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "question": "What surprising revelation did the stout owl-eyed guest discover about the library in Gatsby's mansion?",
+    "strategy": "A",
+    "gold_page": 40,
+    "evidence_quote": "It’s a bona-fide piece of printed matter. It fooled me. This fella’s a regular Belasco",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p154_c2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 154,
+        "text": "ostman from West Egg, in Gatsby’s station wagon, all wet to the skin. As we started through the gate into the cemetery I heard a car stop and then the sound of someone splashing after us over the soggy ground. I looked around. It was the man with owl-eyed glasses whom I had found marvelling over Gatsby’s books in the library one night three months before.\n\nI’d never seen him since then. I don’t know how he knew about the funeral, or even his name. The rain poured down his thick glasses, and he t",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.7297227996008709
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p40_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 40,
+        "text": "A stout, middle-aged man, with enormous owl-eyed spectacles, was sitting somewhat drunk on the edge of a great table, staring with unsteady concentration at the shelves of books. As we entered he wheeled excitedly around and examined Jordan from head to foot.\n\n“What do you think?” he demanded impetuously.\n\n“About what?”\n\nHe waved his hand toward the bookshelves.\n\n“About that. As a matter of fact you needn’t bother to ascertain. I ascertained. They’re real.”\n\n“The books?”\n\nHe nodded.\n\n“Absolutely",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7259084532884928
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p80_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 80,
+        "text": "r, and hear no sound but bird voices in the trees.\n\nAnd inside, as we wandered through Marie Antoinette music-rooms and Restoration Salons, I felt that there were guests concealed behind every couch and table, under orders to be breathlessly silent until we had passed through. As Gatsby closed the door of “the Merton College Library” I could have sworn I heard the owl-eyed man break into ghostly laughter.\n\nWe went upstairs, through period bedrooms swathed in rose and lavender silk and vivid with",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7154503513937618
+      }
+    ]
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "question": "Who was actually driving the coupé that sheared its wheel and ended up in the ditch after Gatsby's party?",
+    "strategy": "A",
+    "gold_page": 48,
+    "evidence_quote": "I wasn’t driving. There’s another man in the car",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p47_c3",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 47,
+        "text": "leasant significance in having been among the last to go, as if he had desired it all the time. “Good night, old sport... Good night.”\n\nBut as I walked down the steps I saw that the evening was not quite over. Fifty feet from the door a dozen headlights illuminated a bizarre and tumultuous scene. In the ditch beside the road, right side up, but violently shorn of one wheel, rested a new coupé which had left Gatsby’s drive not two minutes before. The sharp jut of a wall accounted for the detachme",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7627135213359653
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p48_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 48,
+        "text": "A man in a long duster had dismounted from the wreck and now stood in the middle of the road, looking from the car to the tyre and from the tyre to the observers in a pleasant, puzzled way.\n\n“See!” he explained. “It went in the ditch.”\n\nThe fact was infinitely astonishing to him, and I recognized first the unusual quality of wonder, and then the man—it was the late patron of Gatsby’s library.\n\n“How’d it happen?”\n\nHe shrugged his shoulders.\n\n“I know nothing whatever about mechanics,” he said deci",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7220673896817944
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p127_c2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 127,
+        "text": "e car in my garage. I don’t think anybody saw us, but of course I can’t be sure.”\n\nI disliked him so much by this time that I didn’t find it necessary to tell him he was wrong.\n\n“Who was the woman?” he inquired.\n\n“Her name was Wilson. Her husband owns the garage. How the devil did it happen?”\n\n“Well, I tried to swing the wheel—” He broke off, and suddenly I guessed at the truth.\n\n“Was Daisy driving?”\n\n“Yes,” he said after a moment, “but of course I’ll say I was. You see, when we left New York sh",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7109940995303443
+      }
+    ]
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "question": "What past sporting scandal was whispered about Jordan Baker during her first big golf tournament?",
+    "strategy": "A",
+    "gold_page": 51,
+    "evidence_quote": "she had moved her ball from a bad lie in the semifinal round",
+    "hit@1": false,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p17_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 17,
+        "text": "“Jordan’s going to play in the tournament tomorrow,” explained Daisy, “over at Westchester.”\n\n“Oh—you’re Jordan Baker.”\n\nI knew now why her face was familiar—its pleasing contemptuous expression had looked out at me from many rotogravure pictures of the sporting life at Asheville and Hot Springs and Palm Beach. I had heard some story of her too, a critical, unpleasant story, but what it was I had forgotten long ago.\n\n“Good night,” she said softly. “Wake me at eight, won’t you.”\n\n“If you’ll get u",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.7233845015036368
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p51_c2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 51,
+        "text": "e day I found what it was. When we were on a house-party together up in Warwick, she left a borrowed car out in the rain with the top down, and then lied about it—and suddenly I remembered the story about her that had eluded me that night at Daisy’s. At her first big golf tournament there was a row that nearly reached the newspapers—a suggestion that she had moved her ball from a bad lie in the semifinal round. The thing approached the proportions of a scandal—then died away. A caddy retracted h",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.6818865049116838
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p52_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 52,
+        "text": "Jordan Baker instinctively avoided clever, shrewd men, and now I saw that this was because she felt safer on a plane where any divergence from a code would be thought impossible. She was incurably dishonest. She wasn’t able to endure being at a disadvantage and, given this unwillingness, I suppose she had begun dealing in subterfuges when she was very young in order to keep that cool, insolent smile turned to the world and yet satisfy the demands of her hard, jaunty body.\n\nIt made no difference",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.6637660036090695
+      }
+    ]
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "question": "What specific war medal did Gatsby display to Nick as tangible proof of his heroism in the Great War?",
+    "strategy": "A",
+    "gold_page": 58,
+    "evidence_quote": "Orderi di Danilo",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p58_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 58,
+        "text": "cket, and a piece of metal, slung on a ribbon, fell into my palm.\n\n“That’s the one from Montenegro.”\n\nTo my astonishment, the thing had an authentic look. “Orderi di Danilo,” ran the circular legend, “Montenegro, Nicolas Rex.”\n\n“Turn it.”\n\n“Major Jay Gatsby,” I read, “For Valour Extraordinary.”\n\n“Here’s another thing I always carry. A souvenir of Oxford days. It was taken in Trinity Quad—the man on my left is now the Earl of Doncaster.”\n\nIt was a photograph of half a dozen young men in blazers l",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.7672801750727533
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p82_c3",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 82,
+        "text": "”\n\nThere was a small picture of Gatsby, also in yachting costume, on the bureau—Gatsby with his head thrown back defiantly—taken apparently when he was about eighteen.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.6570467615219127
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p58_c2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 58,
+        "text": "photograph of half a dozen young men in blazers loafing in an archway through which were visible a host of spires. There was Gatsby, looking a little, not much, younger—with a cricket bat in his hand.\n\nThen it was all true. I saw the skins of tigers flaming in his palace on the Grand Canal; I saw him opening a chest of rubies to ease, with their crimson-lighted depths, the gnawings of his broken heart.\n\n“I’m going to make a big request of you today,” he said, pocketing his souvenirs with satisf",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.6478366607791624
+      }
+    ]
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "question": "In Chapter 4, what gruesome item did Meyer Wolfshiem boast that his cuff buttons were crafted from?",
+    "strategy": "A",
+    "gold_page": 63,
+    "evidence_quote": "Finest specimens of human molars",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p63_c2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 63,
+        "text": "e and introduce to your mother and sister.’ ” He paused. “I see you’re looking at my cuff buttons.”\n\nI hadn’t been looking at them, but I did now. They were composed of oddly familiar pieces of ivory.\n\n“Finest specimens of human molars,” he informed me.\n\n“Well!” I inspected them. “That’s a very interesting idea.”\n\n“Yeah.” He flipped his sleeves up under his coat. “Yeah, Gatsby’s very careful about women. He would never so much as look at a friend’s wife.”\n\nWhen the subject of this instinctive tr",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.7160456909779442
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p62_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 62,
+        "text": "“It was four o’clock in the morning then, and if we’d of raised the blinds we’d of seen daylight.”\n\n“Did he go?” I asked innocently.\n\n“Sure he went.” Mr. Wolfshiem’s nose flashed at me indignantly. “He turned around in the door and says: ‘Don’t let that waiter take away my coffee!’ Then he went out on the sidewalk, and they shot him three times in his full belly and drove away.”\n\n“Four of them were electrocuted,” I said, remembering.\n\n“Five, with Becker.” His nostrils turned to me in an interest",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.6477955965629442
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p64_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 64,
+        "text": ", I am fifty years old, and I won’t impose myself on you any longer.”\n\nAs he shook hands and turned away his tragic nose was trembling. I wondered if I had said anything to offend him.\n\n“He becomes very sentimental sometimes,” explained Gatsby. “This is one of his sentimental days. He’s quite a character around New York—a denizen of Broadway.”\n\n“Who is he, anyhow, an actor?”\n\n“No.”\n\n“A dentist?”\n\n“Meyer Wolfshiem? No, he’s a gambler.” Gatsby hesitated, then added, coolly: “He’s the man who fixed",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.6364170297244218
+      }
+    ]
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "question": "What notorious national betting feat was Meyer Wolfshiem credited with orchestrating in 1919?",
+    "strategy": "A",
+    "gold_page": 64,
+    "evidence_quote": "He’s the man who fixed the World’s Series back in 1919",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p64_c2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 64,
+        "text": "tated, then added, coolly: “He’s the man who fixed the World’s Series back in 1919.”\n\n“Fixed the World’s Series?” I repeated.\n\nThe idea staggered me. I remembered, of course, that the World’s Series had been fixed in 1919, but if I had thought of it at all I would have thought of it as a thing that merely happened, the end of some inevitable chain. It never occurred to me that one man could start to play with the faith of fifty million people—with the single-mindedness of a burglar blowing a saf",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.6736978589700852
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p64_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 64,
+        "text": ", I am fifty years old, and I won’t impose myself on you any longer.”\n\nAs he shook hands and turned away his tragic nose was trembling. I wondered if I had said anything to offend him.\n\n“He becomes very sentimental sometimes,” explained Gatsby. “This is one of his sentimental days. He’s quite a character around New York—a denizen of Broadway.”\n\n“Who is he, anyhow, an actor?”\n\n“No.”\n\n“A dentist?”\n\n“Meyer Wolfshiem? No, he’s a gambler.” Gatsby hesitated, then added, coolly: “He’s the man who fixed",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.6484011325990404
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p152_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 152,
+        "text": "I wondered if this partnership had included the World’s Series transaction in 1919.\n\n“Now he’s dead,” I said after a moment. “You were his closest friend, so I know you’ll want to come to his funeral this afternoon.”\n\n“I’d like to come.”\n\n“Well, come then.”\n\nThe hair in his nostrils quivered slightly, and as he shook his head his eyes filled with tears.\n\n“I can’t do it—I can’t get mixed up in it,” he said.\n\n“There’s nothing to get mixed up in. It’s all over now.”\n\n“When a man gets killed I never",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.631044627688393
+      }
+    ]
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "question": "What physical incident happened to the mantelpiece clock when Gatsby nervously met Daisy at Nick's cottage?",
+    "strategy": "A",
+    "gold_page": 76,
+    "evidence_quote": "His head leaned back so far that it rested against the face of a defunct mantelpiece clock",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p76_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 76,
+        "text": "His head leaned back so far that it rested against the face of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting, frightened but graceful, on the edge of a stiff chair.\n\n“We’ve met before,” muttered Gatsby. His eyes glanced momentarily at me, and his lips parted with an abortive attempt at a laugh. Luckily the clock took this moment to tilt dangerously at the pressure of his head, whereupon he turned and caught it with trembling finger",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.8152366196545017
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p76_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 76,
+        "text": "For half a minute there wasn’t a sound. Then from the living-room I heard a sort of choking murmur and part of a laugh, followed by Daisy’s voice on a clear artificial note:\n\n“I certainly am awfully glad to see you again.”\n\nA pause; it endured horribly. I had nothing to do in the hall, so I went into the room.\n\nGatsby, his hands still in his pockets, was reclining against the mantelpiece in a strained counterfeit of perfect ease, even of boredom. His head leaned back so far that it rested agains",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7337186105207183
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p77_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 77,
+        "text": "Amid the welcome confusion of cups and cakes a certain physical decency established itself. Gatsby got himself into a shadow and, while Daisy and I talked, looked conscientiously from one to the other of us with tense, unhappy eyes. However, as calmness wasn’t an end in itself, I made an excuse at the first possible moment, and got to my feet.\n\n“Where are you going?” demanded Gatsby in immediate alarm.\n\n“I’ll be back.”\n\n“I’ve got to speak to you about something before you go.”\n\nHe followed me wi",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.6957641524658337
+      }
+    ]
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "question": "What unexpected sight caused Daisy Buchanan to sob uncontrollably into a pile of fabric during her tour of Gatsby's bedroom?",
+    "strategy": "A",
+    "gold_page": 82,
+    "evidence_quote": "They’re such beautiful shirts",
+    "hit@1": false,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p81_c3",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 81,
+        "text": "s and scrolls and plaids in coral and apple-green and lavender and faint orange, with monograms of indian blue. Suddenly, with a strained sound, Daisy bent her head into the shirts and began to cry stormily.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7630036477134313
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p82_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 82,
+        "text": "“They’re such beautiful shirts,” she sobbed, her voice muffled in the thick folds. “It makes me sad because I’ve never seen such—such beautiful shirts before.”\n\nAfter the house, we were to see the grounds and the swimming pool, and the hydroplane, and the midsummer flowers—but outside Gatsby’s window it began to rain again, so we stood in a row looking at the corrugated surface of the Sound.\n\n“If it wasn’t for the mist we could see your home across the bay,” said Gatsby. “You always have a green",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7236077273635012
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p117_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 117,
+        "text": "said—but her hand as she tried to light a cigarette was trembling. Suddenly she threw the cigarette and the burning match on the carpet.\n\n“Oh, you want too much!” she cried to Gatsby. “I love you now—isn’t that enough? I can’t help what’s past.” She began to sob helplessly. “I did love him once—but I loved you too.”\n\nGatsby’s eyes opened and closed.\n\n“You loved me too?” he repeated.\n\n“Even that’s a lie,” said Tom savagely. “She didn’t know you were alive. Why—there’s things between Daisy and me",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7024855609133124
+      }
+    ]
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "question": "Why did young James Gatz leave St. Olaf's College in southern Minnesota after attending for merely two weeks?",
+    "strategy": "A",
+    "gold_page": 87,
+    "evidence_quote": "St. Olaf’s in southern Minnesota",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p87_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 87,
+        "text": "es provided an outlet for his imagination; they were a satisfactory hint of the unreality of reality, a promise that the rock of the world was founded securely on a fairy’s wing.\n\nAn instinct toward his future glory had led him, some months before, to the small Lutheran College of St. Olaf’s in southern Minnesota. He stayed there two weeks, dismayed at its ferocious indifference to the drums of his destiny, to destiny itself, and despising the janitor’s work with which he was to pay his way thro",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.7196862353423972
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p86_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 86,
+        "text": "James Gatz—that was really, or at least legally, his name. He had changed it at the age of seventeen and at the specific moment that witnessed the beginning of his career—when he saw Dan Cody’s yacht drop anchor over the most insidious flat on Lake Superior. It was James Gatz who had been loafing along the beach that afternoon in a torn green jersey and a pair of canvas pants, but it was already Jay Gatsby who borrowed a rowboat, pulled out to the Tuolomee, and informed Cody that a wind might ca",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.7001397556760839
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p85_c3",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 85,
+        "text": "ary legends such as the “underground pipeline to Canada” attached themselves to him, and there was one persistent story that he didn’t live in a house at all, but in a boat that looked like a house and was moved secretly up and down the Long Island shore. Just why these inventions were a source of satisfaction to James Gatz of North Dakota, isn’t easy to say.",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.6818181251476454
+      }
+    ]
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "How much money did Dan Cody leave Gatsby in his legacy, and why did Gatsby never receive it?",
+    "strategy": "A",
+    "gold_page": 89,
+    "evidence_quote": "inherited money—a legacy of twenty-five thousand dollars. He didn’t get it",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p89_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 89,
+        "text": "And it was from Cody that he inherited money—a legacy of twenty-five thousand dollars. He didn’t get it. He never understood the legal device that was used against him, but what remained of the millions went intact to Ella Kaye. He was left with his singularly appropriate education; the vague contour of Jay Gatsby had filled out to the substantiality of a man.\n\nHe told me all this very much later, but I’ve put it down here with the idea of exploding those first wild rumours about his antecedents",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.7849899957059769
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p88_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 88,
+        "text": "hite duck trousers, and a yachting cap. And when the Tuolomee left for the West Indies and the Barbary Coast, Gatsby left too.\n\nHe was employed in a vague personal capacity—while he remained with Cody he was in turn steward, mate, skipper, secretary, and even jailor, for Dan Cody sober knew what lavish doings Dan Cody drunk might soon be about, and he provided for such contingencies by reposing more and more trust in Gatsby. The arrangement lasted five years, during which the boat went three tim",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.6960908091032606
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p86_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 86,
+        "text": "James Gatz—that was really, or at least legally, his name. He had changed it at the age of seventeen and at the specific moment that witnessed the beginning of his career—when he saw Dan Cody’s yacht drop anchor over the most insidious flat on Lake Superior. It was James Gatz who had been loafing along the beach that afternoon in a torn green jersey and a pair of canvas pants, but it was already Jay Gatsby who borrowed a rowboat, pulled out to the Tuolomee, and informed Cody that a wind might ca",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.6896864713438231
+      }
+    ]
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "In Chapter 7, what famous observation did Gatsby make about the hypnotic charm of Daisy's voice?",
+    "strategy": "A",
+    "gold_page": 105,
+    "evidence_quote": "Her voice is full of money",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p85_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 85,
+        "text": "As I watched him he adjusted himself a little, visibly. His hand took hold of hers, and as she said something low in his ear he turned toward her with a rush of emotion. I think that voice held him most, with its fluctuating, feverish warmth, because it couldn’t be over-dreamed—that voice was a deathless song.\n\nThey had forgotten me, but Daisy glanced up and held out her hand; Gatsby didn’t know me now at all. I looked once more at them and they looked back at me, remotely, possessed by intense",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.7198800470997674
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p104_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 104,
+        "text": "ed Daisy, on the verge of tears, “and everything’s so confused. Let’s all go to town!”\n\nHer voice struggled on through the heat, beating against it, moulding its senselessness into forms.\n\n“I’ve heard of making a garage out of a stable,” Tom was saying to Gatsby, “but I’m the first man who ever made a stable out of a garage.”\n\n“Who wants to go to town?” demanded Daisy insistently. Gatsby’s eyes floated toward her. “Ah,” she cried, “you look so cool.”\n\nTheir eyes met, and they stared together at",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7018560139285501
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p83_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 83,
+        "text": "“I adore it,” exclaimed Daisy. “The pompadour! You never told me you had a pompadour—or a yacht.”\n\n“Look at this,” said Gatsby quickly. “Here’s a lot of clippings—about you.”\n\nThey stood side by side examining it. I was going to ask to see the rubies when the phone rang, and Gatsby took up the receiver.\n\n“Yes... Well, I can’t talk now... I can’t talk now, old sport... I said a small town... He must know what a small town is... Well, he’s no use to us if Detroit is his idea of a small town...”\n\nH",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.6989033329977669
+      }
+    ]
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "Why did Gatsby admit to Tom Buchanan that he could not honestly label himself an Oxford man?",
+    "strategy": "A",
+    "gold_page": 113,
+    "evidence_quote": "It was in nineteen-nineteen, I only stayed five months. That’s why I can’t really call myself an Oxford man",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p113_c3",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 113,
+        "text": "five months. That’s why I can’t really call myself an Oxford man.”\n\nTom glanced around to see if we mirrored his unbelief. But we were all looking at Gatsby.",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.8077505864935822
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p113_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 113,
+        "text": "had room for him.”\n\nJordan smiled.\n\n“He was probably bumming his way home. He told me he was president of your class at Yale.”\n\nTom and I looked at each other blankly.\n\n“Biloxi?”\n\n“First place, we didn’t have any president—”\n\nGatsby’s foot beat a short, restless tattoo and Tom eyed him suddenly.\n\n“By the way, Mr. Gatsby, I understand you’re an Oxford man.”\n\n“Not exactly.”\n\n“Oh, yes, I understand you went to Oxford.”\n\n“Yes—I went there.”\n\nA pause. Then Tom’s voice, incredulous and insulting:\n\n“Y",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7858976587721104
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p113_c2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 113,
+        "text": ". Then Tom’s voice, incredulous and insulting:\n\n“You must have gone there about the time Biloxi went to New Haven.”\n\nAnother pause. A waiter knocked and came in with crushed mint and ice but the silence was unbroken by his “thank you” and the soft closing of the door. This tremendous detail was to be cleared up at last.\n\n“I told you I went there,” said Gatsby.\n\n“I heard you, but I’d like to know when.”\n\n“It was in nineteen-nineteen, I only stayed five months. That’s why I can’t really call mysel",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7399589421137401
+      }
+    ]
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "What suspicious object did George Wilson show Michaelis from his office desk drawer after originally discovering it wrapped in tissue paper on Myrtle's bureau the afternoon before?",
+    "strategy": "A",
+    "gold_page": 139,
+    "evidence_quote": "small, expensive dog-leash, made of leather and braided silver",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p140_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 140,
+        "text": "“This?” he inquired, holding it up.\n\nWilson stared and nodded.\n\n“I found it yesterday afternoon. She tried to tell me about it, but I knew it was something funny.”\n\n“You mean your wife bought it?”\n\n“She had it wrapped in tissue paper on her bureau.”\n\nMichaelis didn’t see anything odd in that, and he gave Wilson a dozen reasons why his wife might have bought the dog-leash. But conceivably Wilson had heard some of these same explanations before, from Myrtle, because he began saying “Oh, my God!” a",
+        "metadata": {
+          "chapter": "Chapter 8"
+        },
+        "score": 0.7562164556746723
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p140_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 140,
+        "text": "om Myrtle, because he began saying “Oh, my God!” again in a whisper—his comforter left several explanations in the air.\n\n“Then he killed her,” said Wilson. His mouth dropped open suddenly.\n\n“Who did?”\n\n“I have a way of finding out.”\n\n“You’re morbid, George,” said his friend. “This has been a strain to you and you don’t know what you’re saying. You’d better try and sit quiet till morning.”\n\n“He murdered her.”\n\n“It was an accident, George.”\n\nWilson shook his head. His eyes narrowed and his mouth w",
+        "metadata": {
+          "chapter": "Chapter 8"
+        },
+        "score": 0.6885142199688599
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p123_c0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 123,
+        "text": "Myrtle Wilson’s body, wrapped in a blanket, and then in another blanket, as though she suffered from a chill in the hot night, lay on a worktable by the wall, and Tom, with his back to us, was bending over it, motionless. Next to him stood a motorcycle policeman taking down names with much sweat and correction in a little book. At first I couldn’t find the source of the high, groaning words that echoed clamorously through the bare garage—then I saw Wilson standing on the raised threshold of his",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.6711102575108243
+      }
+    ]
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "Aside from Nick Carraway, Henry C. Gatz, the Lutheran minister, the West Egg postman, and a few servants who rode in the three-car funeral procession, which former party guest unexpectedly arrived in a separate car at the cemetery gate for Gatsby's burial?",
+    "strategy": "A",
+    "gold_page": 154,
+    "evidence_quote": "It was the man with owl-eyed glasses whom I had found marvelling over Gatsby’s books in the library one night three months before",
+    "hit@1": false,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "A_the-great-gatsby_p154_c1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 154,
+        "text": "e rain in a worried, uncertain way. The minister glanced several times at his watch, so I took him aside and asked him to wait for half an hour. But it wasn’t any use. Nobody came.\n\nAbout five o’clock our procession of three cars reached the cemetery and stopped in a thick drizzle beside the gate—first a motor hearse, horribly black and wet, then Mr. Gatz and the minister and me in the limousine, and a little later four or five servants and the postman from West Egg, in Gatsby’s station wagon, a",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.7545954713268874
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p154_c2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 154,
+        "text": "ostman from West Egg, in Gatsby’s station wagon, all wet to the skin. As we started through the gate into the cemetery I heard a car stop and then the sound of someone splashing after us over the soggy ground. I looked around. It was the man with owl-eyed glasses whom I had found marvelling over Gatsby’s books in the library one night three months before.\n\nI’d never seen him since then. I don’t know how he knew about the funeral, or even his name. The rain poured down his thick glasses, and he t",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.73404005084258
+      },
+      {
+        "chunk_id": "A_the-great-gatsby_p154_c3",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 154,
+        "text": ". The rain poured down his thick glasses, and he took them off and wiped them to see the protecting canvas unrolled from Gatsby’s grave.\n\nI tried to think about Gatsby then for a moment, but he was already too far away, and I could only remember, without resentment, that Daisy hadn’t sent a message or a flower. Dimly I heard someone murmur “Blessed are the dead that the rain falls on,” and then the owl-eyed man said “Amen to that,” in a brave voice.",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.6894067532940432
       }
     ]
   },
@@ -64,6 +930,872 @@
           "chapter": "Chapter 1"
         },
         "score": 0.6945741095259996
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p18_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 18,
+        "text": "“Did I?” She looked at me. “I can’t seem to remember, but I think we talked about the Nordic race. Yes, I’m sure we did. It sort of crept up on us and first thing you know—”\n\n“Don’t believe everything you hear, Nick,” he advised me.\n\nI said lightly that I had heard nothing at all, and a few minutes later I got up to go home. They came to the door with me and stood side by side in a cheerful square of light. As I started my motor Daisy peremptorily called: “Wait!\n\n“I forgot to ask you something, and it’s important. We heard you were engaged to a girl out West.”\n\n“That’s right,” corroborated Tom kindly. “We heard that you were engaged.”\n\n“It’s a libel. I’m too poor.”",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.6623915043326275
+      }
+    ]
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "question": "What occupational hazard caused the Buchanans' butler to lose his former silver-polishing job in New York?",
+    "strategy": "B",
+    "gold_page": 12,
+    "evidence_quote": "He had to polish it from morning till night, until finally it began to affect his nose",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p12_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 12,
+        "text": "There was something pathetic in his concentration, as if his complacency, more acute than of old, was not enough to him any more. When, almost immediately, the telephone rang inside and the butler left the porch Daisy seized upon the momentary interruption and leaned towards me.\n\n“I’ll tell you a family secret,” she whispered enthusiastically. “It’s about the butler’s nose. Do you want to hear about the butler’s nose?”\n\n“That’s why I came over tonight.”\n\n“Well, he wasn’t always a butler; he used to be the silver polisher for some people in New York that had a silver service for two hundred people. He had to polish it from morning till night, until finally it began to affect his nose—”\n\n“Things went from bad to worse,” suggested Miss Baker.",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.6791977651775488
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p99_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 99,
+        "text": "It was when curiosity about Gatsby was at its highest that the lights in his house failed to go on one Saturday night—and, as obscurely as it had begun, his career as Trimalchio was over. Only gradually did I become aware that the automobiles which turned expectantly into his drive stayed for just a minute and then drove sulkily away. Wondering if he were sick I went over to find out—an unfamiliar butler with a villainous face squinted at me suspiciously from the door.\n\n“Is Mr. Gatsby sick?”\n\n“Nope.” After a pause he added “sir” in a dilatory, grudging way.\n\n“I hadn’t seen him around, and I was rather worried. Tell him Mr. Carraway came over.”\n\n“Who?” he demanded rudely.\n\n“Carraway.”\n\n“Carraway. All right, I’ll tell him.”\n\nAbruptly he slammed the door.",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.6331697146573092
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p34_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 34,
+        "text": "Every Friday five crates of oranges and lemons arrived from a fruiterer in New York—every Monday these same oranges and lemons left his back door in a pyramid of pulpless halves. There was a machine in the kitchen which could extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.6319288981826301
+      }
+    ]
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "question": "Describe the peculiar features and scale of the oculist advertisement overlooking the valley of ashes.",
+    "strategy": "B",
+    "gold_page": 20,
+    "evidence_quote": "The eyes of Doctor T. J. Eckleburg are blue and gigantic—their retinas are one yard high",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p20_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 20,
+        "text": "But above the grey land and the spasms of bleak dust which drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J. Eckleburg are blue and gigantic—their retinas are one yard high. They look out of no face, but, instead, from a pair of enormous yellow spectacles which pass over a nonexistent nose. Evidently some wild wag of an oculist set them there to fatten his practice in the borough of Queens, and then sank down himself into eternal blindness, or forgot them and moved away. But his eyes, dimmed a little by many paintless days, under sun and rain, brood on over the solemn dumping ground.",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.7738744867020482
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p109_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 109,
+        "text": "That locality was always vaguely disquieting, even in the broad glare of afternoon, and now I turned my head as though I had been warned of something behind. Over the ash-heaps the giant eyes of Doctor T. J. Eckleburg kept their vigil, but I perceived, after a moment, that other eyes were regarding us with peculiar intensity from less than twenty feet away.",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7470498969175965
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p141_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 141,
+        "text": "“I spoke to her,” he muttered, after a long silence. “I told her she might fool me but she couldn’t fool God. I took her to the window”—with an effort he got up and walked to the rear window and leaned with his face pressed against it—“and I said ‘God knows what you’ve been doing, everything you’ve been doing. You may fool me, but you can’t fool God!’ ”\n\nStanding behind him, Michaelis saw with a shock that he was looking at the eyes of Doctor T. J. Eckleburg, which had just emerged, pale and enormous, from the dissolving night.\n\n“God sees everything,” repeated Wilson.\n\n“That’s an advertisement,” Michaelis assured him. Something made him turn away from the window and look back into the room. But Wilson stood there a long time, his face close to the window pane, nodding into the twilight.",
+        "metadata": {
+          "chapter": "Chapter 8"
+        },
+        "score": 0.7248905343261738
+      }
+    ]
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "question": "What specific discovery made Myrtle Wilson realize that her marriage to George Wilson was a terrible mistake?",
+    "strategy": "B",
+    "gold_page": 31,
+    "evidence_quote": "He borrowed somebody’s best suit to get married in, and never even told me about it",
+    "hit@1": false,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p30_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 30,
+        "text": "“I almost made a mistake, too,” she declared vigorously. “I almost married a little kike who’d been after me for years. I knew he was below me. Everybody kept saying to me: ‘Lucille, that man’s way below you!’ But if I hadn’t met Chester, he’d of got me sure.”\n\n“Yes, but listen,” said Myrtle Wilson, nodding her head up and down, “at least you didn’t marry him.”\n\n“I know I didn’t.”\n\n“Well, I married him,” said Myrtle, ambiguously. “And that’s the difference between your case and mine.”\n\n“Why did you, Myrtle?” demanded Catherine. “Nobody forced you to.”\n\nMyrtle considered.\n\n“I married him because I thought he was a gentleman,” she said finally. “I thought he knew something about breeding, but he wasn’t fit to lick my shoe.”\n\n“You were crazy about him for a while,” said Catherine.",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.7594468984042008
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p31_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 31,
+        "text": "“Crazy about him!” cried Myrtle incredulously. “Who said I was crazy about him? I never was any more crazy about him than I was about that man there.”\n\nShe pointed suddenly at me, and everyone looked at me accusingly. I tried to show by my expression that I expected no affection.\n\n“The only crazy I was was when I married him. I knew right away I made a mistake. He borrowed somebody’s best suit to get married in, and never even told me about it, and the man came after it one day when he was out: ‘Oh, is that your suit?’ I said. ‘This is the first I ever heard about it.’ But I gave it to him and then I lay down and cried to beat the band all afternoon.”",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.7497183741065662
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p109_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 109,
+        "text": "In one of the windows over the garage the curtains had been moved aside a little, and Myrtle Wilson was peering down at the car. So engrossed was she that she had no consciousness of being observed, and one emotion after another crept into her face like objects into a slowly developing picture. Her expression was curiously familiar—it was an expression I had often seen on women’s faces, but on Myrtle Wilson’s face it seemed purposeless and inexplicable until I realized that her eyes, wide with jealous terror, were fixed not on Tom, but on Jordan Baker, whom she took to be his wife.",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.70173475271083
+      }
+    ]
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "question": "In Chapter 2, what violent physical altercation occurred between Tom Buchanan and Myrtle when she shouted Daisy's name?",
+    "strategy": "B",
+    "gold_page": 33,
+    "evidence_quote": "Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p33_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 33,
+        "text": "The little dog was sitting on the table looking with blind eyes through the smoke, and from time to time groaning faintly. People disappeared, reappeared, made plans to go somewhere, and then lost each other, searched for each other, found each other a few feet away. Some time toward midnight Tom Buchanan and Mrs. Wilson stood face to face discussing, in impassioned voices, whether Mrs. Wilson had any right to mention Daisy’s name.\n\n“Daisy! Daisy! Daisy!” shouted Mrs. Wilson. “I’ll say it whenever I want to! Daisy! Dai—”\n\nMaking a short deft movement, Tom Buchanan broke her nose with his open hand.",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.7404927655441599
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p101_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 101,
+        "text": "“And Mr. Thomas Buchanan, the athlete?” I inquired.\n\nSimultaneously I heard his voice, gruff, muffled, husky, at the hall telephone.\n\nGatsby stood in the centre of the crimson carpet and gazed around with fascinated eyes. Daisy watched him and laughed, her sweet, exciting laugh; a tiny gust of powder rose from her bosom into the air.\n\n“The rumour is,” whispered Jordan, “that that’s Tom’s girl on the telephone.”\n\nWe were silent. The voice in the hall rose high with annoyance: “Very well, then, I won’t sell you the car at all... I’m under no obligations to you at all... and as for your bothering me about it at lunch time, I won’t stand that at all!”\n\n“Holding down the receiver,” said Daisy cynically.\n\n“No, he’s not,” I assured her. “It’s a bona-fide deal. I happen to know about it.”",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.6826395144130059
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p118_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 118,
+        "text": "“I’m not?” Tom opened his eyes wide and laughed. He could afford to control himself now. “Why’s that?”\n\n“Daisy’s leaving you.”\n\n“Nonsense.”\n\n“I am, though,” she said with a visible effort.\n\n“She’s not leaving me!” Tom’s words suddenly leaned down over Gatsby. “Certainly not for a common swindler who’d have to steal the ring he put on her finger.”\n\n“I won’t stand this!” cried Daisy. “Oh, please let’s get out.”\n\n“Who are you, anyhow?” broke out Tom. “You’re one of that bunch that hangs around with Meyer Wolfshiem—that much I happen to know. I’ve made a little investigation into your affairs—and I’ll carry it further tomorrow.”\n\n“You can suit yourself about that, old sport,” said Gatsby steadily.",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.6814045707108857
+      }
+    ]
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "question": "What specialized mechanical device was in Gatsby's kitchen to prepare fresh citrus juice for his weekend parties?",
+    "strategy": "B",
+    "gold_page": 34,
+    "evidence_quote": "extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p34_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 34,
+        "text": "Every Friday five crates of oranges and lemons arrived from a fruiterer in New York—every Monday these same oranges and lemons left his back door in a pyramid of pulpless halves. There was a machine in the kitchen which could extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7580585399168445
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p35_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 35,
+        "text": "At least once a fortnight a corps of caterers came down with several hundred feet of canvas and enough coloured lights to make a Christmas tree of Gatsby’s enormous garden. On buffet tables, garnished with glistening hors-d’oeuvre, spiced baked hams crowded against salads of harlequin designs and pastry pigs and turkeys bewitched to a dark gold. In the main hall a bar with a real brass rail was set up, and stocked with gins and liquors and with cordials so long forgotten that most of his female guests were too young to know one from another.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.6975829914279054
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p80_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 80,
+        "text": "We went upstairs, through period bedrooms swathed in rose and lavender silk and vivid with new flowers, through dressing-rooms and poolrooms, and bathrooms with sunken baths—intruding into one chamber where a dishevelled man in pyjamas was doing liver exercises on the floor. It was Mr. Klipspringer, the “boarder.” I had seen him wandering hungrily about the beach that morning. Finally we came to Gatsby’s own apartment, a bedroom and a bath, and an Adam’s study, where we sat down and drank a glass of some Chartreuse he took from a cupboard in the wall.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.6650554374074304
+      }
+    ]
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "question": "What surprising revelation did the stout owl-eyed guest discover about the library in Gatsby's mansion?",
+    "strategy": "B",
+    "gold_page": 40,
+    "evidence_quote": "It’s a bona-fide piece of printed matter. It fooled me. This fella’s a regular Belasco",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p80_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 80,
+        "text": "And inside, as we wandered through Marie Antoinette music-rooms and Restoration Salons, I felt that there were guests concealed behind every couch and table, under orders to be breathlessly silent until we had passed through. As Gatsby closed the door of “the Merton College Library” I could have sworn I heard the owl-eyed man break into ghostly laughter.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7524203585210872
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p40_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 40,
+        "text": "A stout, middle-aged man, with enormous owl-eyed spectacles, was sitting somewhat drunk on the edge of a great table, staring with unsteady concentration at the shelves of books. As we entered he wheeled excitedly around and examined Jordan from head to foot.\n\n“What do you think?” he demanded impetuously.\n\n“About what?”\n\nHe waved his hand toward the bookshelves.\n\n“About that. As a matter of fact you needn’t bother to ascertain. I ascertained. They’re real.”\n\n“The books?”\n\nHe nodded.\n\n“Absolutely real—have pages and everything. I thought they’d be a nice durable cardboard. Matter of fact, they’re absolutely real. Pages and—Here! Lemme show you.”\n\nTaking our scepticism for granted, he rushed to the bookcases and returned with Volume One of the Stoddard Lectures.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7328640726103159
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p39_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 39,
+        "text": "“Let’s get out,” whispered Jordan, after a somehow wasteful and inappropriate half-hour; “this is much too polite for me.”\n\nWe got up, and she explained that we were going to find the host: I had never met him, she said, and it was making me uneasy. The undergraduate nodded in a cynical, melancholy way.\n\nThe bar, where we glanced first, was crowded, but Gatsby was not there. She couldn’t find him from the top of the steps, and he wasn’t on the veranda. On a chance we tried an important-looking door, and walked into a high Gothic library, panelled with carved English oak, and probably transported complete from some ruin overseas.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7236351061657115
+      }
+    ]
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "question": "Who was actually driving the coupé that sheared its wheel and ended up in the ditch after Gatsby's party?",
+    "strategy": "B",
+    "gold_page": 48,
+    "evidence_quote": "I wasn’t driving. There’s another man in the car",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p47_3",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 47,
+        "text": "But as I walked down the steps I saw that the evening was not quite over. Fifty feet from the door a dozen headlights illuminated a bizarre and tumultuous scene. In the ditch beside the road, right side up, but violently shorn of one wheel, rested a new coupé which had left Gatsby’s drive not two minutes before. The sharp jut of a wall accounted for the detachment of the wheel, which was now getting considerable attention from half a dozen curious chauffeurs. However, as they had left their cars blocking the road, a harsh, discordant din from those in the rear had been audible for some time, and added to the already violent confusion of the scene.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.8024432537855236
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p48_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 48,
+        "text": "A man in a long duster had dismounted from the wreck and now stood in the middle of the road, looking from the car to the tyre and from the tyre to the observers in a pleasant, puzzled way.\n\n“See!” he explained. “It went in the ditch.”\n\nThe fact was infinitely astonishing to him, and I recognized first the unusual quality of wonder, and then the man—it was the late patron of Gatsby’s library.\n\n“How’d it happen?”\n\nHe shrugged his shoulders.\n\n“I know nothing whatever about mechanics,” he said decisively.\n\n“But how did it happen? Did you run into the wall?”\n\n“Don’t ask me,” said Owl Eyes, washing his hands of the whole matter. “I know very little about driving—next to nothing. It happened, and that’s all I know.”\n\n“Well, if you’re a poor driver you oughtn’t to try driving at night.”",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7443782055073463
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p127_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 127,
+        "text": "He spoke as if Daisy’s reaction was the only thing that mattered.\n\n“I got to West Egg by a side road,” he went on, “and left the car in my garage. I don’t think anybody saw us, but of course I can’t be sure.”\n\nI disliked him so much by this time that I didn’t find it necessary to tell him he was wrong.\n\n“Who was the woman?” he inquired.\n\n“Her name was Wilson. Her husband owns the garage. How the devil did it happen?”\n\n“Well, I tried to swing the wheel—” He broke off, and suddenly I guessed at the truth.\n\n“Was Daisy driving?”",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7216368657280999
+      }
+    ]
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "question": "What past sporting scandal was whispered about Jordan Baker during her first big golf tournament?",
+    "strategy": "B",
+    "gold_page": 51,
+    "evidence_quote": "she had moved her ball from a bad lie in the semifinal round",
+    "hit@1": false,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p17_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 17,
+        "text": "“Jordan’s going to play in the tournament tomorrow,” explained Daisy, “over at Westchester.”\n\n“Oh—you’re Jordan Baker.”\n\nI knew now why her face was familiar—its pleasing contemptuous expression had looked out at me from many rotogravure pictures of the sporting life at Asheville and Hot Springs and Palm Beach. I had heard some story of her too, a critical, unpleasant story, but what it was I had forgotten long ago.\n\n“Good night,” she said softly. “Wake me at eight, won’t you.”\n\n“If you’ll get up.”\n\n“I will. Good night, Mr. Carraway. See you anon.”",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.713479768827733
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p51_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 51,
+        "text": "For a while I lost sight of Jordan Baker, and then in midsummer I found her again. At first I was flattered to go places with her, because she was a golf champion, and everyone knew her name. Then it was something more. I wasn’t actually in love, but I felt a sort of tender curiosity. The bored haughty face that she turned to the world concealed something—most affectations conceal something eventually, even though they don’t in the beginning—and one day I found what it was. When we were on a house-party together up in Warwick, she left a borrowed car out in the rain with the top down, and then lied about it—and suddenly I remembered the story about her that had eluded me that night at Daisy’s. At her first big golf tournament there was a row that nearly reached the newspapers—a suggestion that she had moved her ball from a bad lie in the semifinal round. The thing approached the proportions of a scandal—then died away. A caddy retracted his statement, and the only other witness admitted that he might have been mistaken. The incident and the name had remained together in my mind.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7129889585802774
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p64_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 64,
+        "text": "“Who is he, anyhow, an actor?”\n\n“No.”\n\n“A dentist?”\n\n“Meyer Wolfshiem? No, he’s a gambler.” Gatsby hesitated, then added, coolly: “He’s the man who fixed the World’s Series back in 1919.”\n\n“Fixed the World’s Series?” I repeated.\n\nThe idea staggered me. I remembered, of course, that the World’s Series had been fixed in 1919, but if I had thought of it at all I would have thought of it as a thing that merely happened, the end of some inevitable chain. It never occurred to me that one man could start to play with the faith of fifty million people—with the single-mindedness of a burglar blowing a safe.\n\n“How did he happen to do that?” I asked after a minute.\n\n“He just saw the opportunity.”\n\n“Why isn’t he in jail?”",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.6628378755643994
+      }
+    ]
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "question": "What specific war medal did Gatsby display to Nick as tangible proof of his heroism in the Great War?",
+    "strategy": "B",
+    "gold_page": 58,
+    "evidence_quote": "Orderi di Danilo",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p58_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 58,
+        "text": "Little Montenegro! He lifted up the words and nodded at them—with his smile. The smile comprehended Montenegro’s troubled history and sympathized with the brave struggles of the Montenegrin people. It appreciated fully the chain of national circumstances which had elicited this tribute from Montenegro’s warm little heart. My incredulity was submerged in fascination now; it was like skimming hastily through a dozen magazines.\n\nHe reached in his pocket, and a piece of metal, slung on a ribbon, fell into my palm.\n\n“That’s the one from Montenegro.”\n\nTo my astonishment, the thing had an authentic look. “Orderi di Danilo,” ran the circular legend, “Montenegro, Nicolas Rex.”\n\n“Turn it.”\n\n“Major Jay Gatsby,” I read, “For Valour Extraordinary.”",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.7819680257811892
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p58_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 58,
+        "text": "“Here’s another thing I always carry. A souvenir of Oxford days. It was taken in Trinity Quad—the man on my left is now the Earl of Doncaster.”\n\nIt was a photograph of half a dozen young men in blazers loafing in an archway through which were visible a host of spires. There was Gatsby, looking a little, not much, younger—with a cricket bat in his hand.\n\nThen it was all true. I saw the skins of tigers flaming in his palace on the Grand Canal; I saw him opening a chest of rubies to ease, with their crimson-lighted depths, the gnawings of his broken heart.",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.6649754166126557
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p63_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 63,
+        "text": "“Several years,” he answered in a gratified way. “I made the pleasure of his acquaintance just after the war. But I knew I had discovered a man of fine breeding after I talked with him an hour. I said to myself: ‘There’s the kind of man you’d like to take home and introduce to your mother and sister.’ ” He paused. “I see you’re looking at my cuff buttons.”\n\nI hadn’t been looking at them, but I did now. They were composed of oddly familiar pieces of ivory.\n\n“Finest specimens of human molars,” he informed me.\n\n“Well!” I inspected them. “That’s a very interesting idea.”\n\n“Yeah.” He flipped his sleeves up under his coat. “Yeah, Gatsby’s very careful about women. He would never so much as look at a friend’s wife.”",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.6591486975211981
+      }
+    ]
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "question": "In Chapter 4, what gruesome item did Meyer Wolfshiem boast that his cuff buttons were crafted from?",
+    "strategy": "B",
+    "gold_page": 63,
+    "evidence_quote": "Finest specimens of human molars",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p63_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 63,
+        "text": "“Several years,” he answered in a gratified way. “I made the pleasure of his acquaintance just after the war. But I knew I had discovered a man of fine breeding after I talked with him an hour. I said to myself: ‘There’s the kind of man you’d like to take home and introduce to your mother and sister.’ ” He paused. “I see you’re looking at my cuff buttons.”\n\nI hadn’t been looking at them, but I did now. They were composed of oddly familiar pieces of ivory.\n\n“Finest specimens of human molars,” he informed me.\n\n“Well!” I inspected them. “That’s a very interesting idea.”\n\n“Yeah.” He flipped his sleeves up under his coat. “Yeah, Gatsby’s very careful about women. He would never so much as look at a friend’s wife.”",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.7361139528356853
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p64_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 64,
+        "text": "“Who is he, anyhow, an actor?”\n\n“No.”\n\n“A dentist?”\n\n“Meyer Wolfshiem? No, he’s a gambler.” Gatsby hesitated, then added, coolly: “He’s the man who fixed the World’s Series back in 1919.”\n\n“Fixed the World’s Series?” I repeated.\n\nThe idea staggered me. I remembered, of course, that the World’s Series had been fixed in 1919, but if I had thought of it at all I would have thought of it as a thing that merely happened, the end of some inevitable chain. It never occurred to me that one man could start to play with the faith of fifty million people—with the single-mindedness of a burglar blowing a safe.\n\n“How did he happen to do that?” I asked after a minute.\n\n“He just saw the opportunity.”\n\n“Why isn’t he in jail?”",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.6628332992387509
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p62_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 62,
+        "text": "“It was four o’clock in the morning then, and if we’d of raised the blinds we’d of seen daylight.”\n\n“Did he go?” I asked innocently.\n\n“Sure he went.” Mr. Wolfshiem’s nose flashed at me indignantly. “He turned around in the door and says: ‘Don’t let that waiter take away my coffee!’ Then he went out on the sidewalk, and they shot him three times in his full belly and drove away.”\n\n“Four of them were electrocuted,” I said, remembering.\n\n“Five, with Becker.” His nostrils turned to me in an interested way. “I understand you’re looking for a business gonnegtion.”\n\nThe juxtaposition of these two remarks was startling. Gatsby answered for me:\n\n“Oh, no,” he exclaimed, “this isn’t the man.”\n\n“No?” Mr. Wolfshiem seemed disappointed.",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.657255799892852
+      }
+    ]
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "question": "What notorious national betting feat was Meyer Wolfshiem credited with orchestrating in 1919?",
+    "strategy": "B",
+    "gold_page": 64,
+    "evidence_quote": "He’s the man who fixed the World’s Series back in 1919",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p64_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 64,
+        "text": "“Who is he, anyhow, an actor?”\n\n“No.”\n\n“A dentist?”\n\n“Meyer Wolfshiem? No, he’s a gambler.” Gatsby hesitated, then added, coolly: “He’s the man who fixed the World’s Series back in 1919.”\n\n“Fixed the World’s Series?” I repeated.\n\nThe idea staggered me. I remembered, of course, that the World’s Series had been fixed in 1919, but if I had thought of it at all I would have thought of it as a thing that merely happened, the end of some inevitable chain. It never occurred to me that one man could start to play with the faith of fifty million people—with the single-mindedness of a burglar blowing a safe.\n\n“How did he happen to do that?” I asked after a minute.\n\n“He just saw the opportunity.”\n\n“Why isn’t he in jail?”",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.7490352707784728
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p152_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 152,
+        "text": "I wondered if this partnership had included the World’s Series transaction in 1919.\n\n“Now he’s dead,” I said after a moment. “You were his closest friend, so I know you’ll want to come to his funeral this afternoon.”\n\n“I’d like to come.”\n\n“Well, come then.”\n\nThe hair in his nostrils quivered slightly, and as he shook his head his eyes filled with tears.\n\n“I can’t do it—I can’t get mixed up in it,” he said.\n\n“There’s nothing to get mixed up in. It’s all over now.”\n\n“When a man gets killed I never like to get mixed up in it in any way. I keep out. When I was a young man it was different—if a friend of mine died, no matter how, I stuck with them to the end. You may think that’s sentimental, but I mean it—to the bitter end.”",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.6382986916289589
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p146_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 146,
+        "text": "Dear Mr. Carraway. This has been one of the most terrible shocks of my life to me I hardly can believe it that it is true at all. Such a mad act as that man did should make us all think. I cannot come down now as I am tied up in some very important business and cannot get mixed up in this thing now. If there is anything I can do a little later let me know in a letter by Edgar. I hardly know where I am when I hear about a thing like this and am completely knocked down and out.\n\nYours truly\n\nMeyer Wolfshiem\n\nand then hasty addenda beneath:",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.6229728301609437
+      }
+    ]
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "question": "What physical incident happened to the mantelpiece clock when Gatsby nervously met Daisy at Nick's cottage?",
+    "strategy": "B",
+    "gold_page": 76,
+    "evidence_quote": "His head leaned back so far that it rested against the face of a defunct mantelpiece clock",
+    "hit@1": false,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p76_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 76,
+        "text": "“We’ve met before,” muttered Gatsby. His eyes glanced momentarily at me, and his lips parted with an abortive attempt at a laugh. Luckily the clock took this moment to tilt dangerously at the pressure of his head, whereupon he turned and caught it with trembling fingers, and set it back in place. Then he sat down, rigidly, his elbow on the arm of the sofa and his chin in his hand.\n\n“I’m sorry about the clock,” he said.\n\nMy own face had now assumed a deep tropical burn. I couldn’t muster up a single commonplace out of the thousand in my head.\n\n“It’s an old clock,” I told them idiotically.\n\nI think we all believed for a moment that it had smashed in pieces on the floor.\n\n“We haven’t met for many years,” said Daisy, her voice as matter-of-fact as it could ever be.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.8060134295161399
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p76_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 76,
+        "text": "For half a minute there wasn’t a sound. Then from the living-room I heard a sort of choking murmur and part of a laugh, followed by Daisy’s voice on a clear artificial note:\n\n“I certainly am awfully glad to see you again.”\n\nA pause; it endured horribly. I had nothing to do in the hall, so I went into the room.\n\nGatsby, his hands still in his pockets, was reclining against the mantelpiece in a strained counterfeit of perfect ease, even of boredom. His head leaned back so far that it rested against the face of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting, frightened but graceful, on the edge of a stiff chair.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7891285142932111
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p81_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 81,
+        "text": "His bedroom was the simplest room of all—except where the dresser was garnished with a toilet set of pure dull gold. Daisy took the brush with delight, and smoothed her hair, whereupon Gatsby sat down and shaded his eyes and began to laugh.\n\n“It’s the funniest thing, old sport,” he said hilariously. “I can’t—When I try to—”\n\nHe had passed visibly through two states and was entering upon a third. After his embarrassment and his unreasoning joy he was consumed with wonder at her presence. He had been full of the idea so long, dreamed it right through to the end, waited with his teeth set, so to speak, at an inconceivable pitch of intensity. Now, in the reaction, he was running down like an over-wound clock.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7197532006590784
+      }
+    ]
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "question": "What unexpected sight caused Daisy Buchanan to sob uncontrollably into a pile of fabric during her tour of Gatsby's bedroom?",
+    "strategy": "B",
+    "gold_page": 82,
+    "evidence_quote": "They’re such beautiful shirts",
+    "hit@1": false,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p81_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 81,
+        "text": "He took out a pile of shirts and began throwing them, one by one, before us, shirts of sheer linen and thick silk and fine flannel, which lost their folds as they fell and covered the table in many-coloured disarray. While we admired he brought more and the soft rich heap mounted higher—shirts with stripes and scrolls and plaids in coral and apple-green and lavender and faint orange, with monograms of indian blue. Suddenly, with a strained sound, Daisy bent her head into the shirts and began to cry stormily.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7817348578704887
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p82_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 82,
+        "text": "“They’re such beautiful shirts,” she sobbed, her voice muffled in the thick folds. “It makes me sad because I’ve never seen such—such beautiful shirts before.”\n\nAfter the house, we were to see the grounds and the swimming pool, and the hydroplane, and the midsummer flowers—but outside Gatsby’s window it began to rain again, so we stood in a row looking at the corrugated surface of the Sound.\n\n“If it wasn’t for the mist we could see your home across the bay,” said Gatsby. “You always have a green light that burns all night at the end of your dock.”",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7245852870861217
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p76_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 76,
+        "text": "For half a minute there wasn’t a sound. Then from the living-room I heard a sort of choking murmur and part of a laugh, followed by Daisy’s voice on a clear artificial note:\n\n“I certainly am awfully glad to see you again.”\n\nA pause; it endured horribly. I had nothing to do in the hall, so I went into the room.\n\nGatsby, his hands still in his pockets, was reclining against the mantelpiece in a strained counterfeit of perfect ease, even of boredom. His head leaned back so far that it rested against the face of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting, frightened but graceful, on the edge of a stiff chair.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7149635532516604
+      }
+    ]
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "question": "Why did young James Gatz leave St. Olaf's College in southern Minnesota after attending for merely two weeks?",
+    "strategy": "B",
+    "gold_page": 87,
+    "evidence_quote": "St. Olaf’s in southern Minnesota",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p87_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 87,
+        "text": "An instinct toward his future glory had led him, some months before, to the small Lutheran College of St. Olaf’s in southern Minnesota. He stayed there two weeks, dismayed at its ferocious indifference to the drums of his destiny, to destiny itself, and despising the janitor’s work with which he was to pay his way through. Then he drifted back to Lake Superior, and he was still searching for something to do on the day that Dan Cody’s yacht dropped anchor in the shallows alongshore.",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.7268982404305089
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p86_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 86,
+        "text": "James Gatz—that was really, or at least legally, his name. He had changed it at the age of seventeen and at the specific moment that witnessed the beginning of his career—when he saw Dan Cody’s yacht drop anchor over the most insidious flat on Lake Superior. It was James Gatz who had been loafing along the beach that afternoon in a torn green jersey and a pair of canvas pants, but it was already Jay Gatsby who borrowed a rowboat, pulled out to the Tuolomee, and informed Cody that a wind might catch him and break him up in half an hour.",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.6964832476856928
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p88_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 88,
+        "text": "To young Gatz, resting on his oars and looking up at the railed deck, that yacht represented all the beauty and glamour in the world. I suppose he smiled at Cody—he had probably discovered that people liked him when he smiled. At any rate Cody asked him a few questions (one of them elicited the brand new name) and found that he was quick and extravagantly ambitious. A few days later he took him to Duluth and bought him a blue coat, six pairs of white duck trousers, and a yachting cap. And when the Tuolomee left for the West Indies and the Barbary Coast, Gatsby left too.",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.6721026564607141
+      }
+    ]
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "How much money did Dan Cody leave Gatsby in his legacy, and why did Gatsby never receive it?",
+    "strategy": "B",
+    "gold_page": 89,
+    "evidence_quote": "inherited money—a legacy of twenty-five thousand dollars. He didn’t get it",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p89_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 89,
+        "text": "And it was from Cody that he inherited money—a legacy of twenty-five thousand dollars. He didn’t get it. He never understood the legal device that was used against him, but what remained of the millions went intact to Ella Kaye. He was left with his singularly appropriate education; the vague contour of Jay Gatsby had filled out to the substantiality of a man.\n\nHe told me all this very much later, but I’ve put it down here with the idea of exploding those first wild rumours about his antecedents, which weren’t even faintly true. Moreover he told it to me at a time of confusion, when I had reached the point of believing everything and nothing about him. So I take advantage of this short halt, while Gatsby, so to speak, caught his breath, to clear this set of misconceptions away.",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.7674945601473967
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p88_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 88,
+        "text": "He was employed in a vague personal capacity—while he remained with Cody he was in turn steward, mate, skipper, secretary, and even jailor, for Dan Cody sober knew what lavish doings Dan Cody drunk might soon be about, and he provided for such contingencies by reposing more and more trust in Gatsby. The arrangement lasted five years, during which the boat went three times around the Continent. It might have lasted indefinitely except for the fact that Ella Kaye came on board one night in Boston and a week later Dan Cody inhospitably died.",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.7158757889526557
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p130_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 130,
+        "text": "He wouldn’t consider it. He couldn’t possibly leave Daisy until he knew what she was going to do. He was clutching at some last hope and I couldn’t bear to shake him free.\n\nIt was this night that he told me the strange story of his youth with Dan Cody—told it to me because “Jay Gatsby” had broken up like glass against Tom’s hard malice, and the long secret extravaganza was played out. I think that he would have acknowledged anything now, without reserve, but he wanted to talk about Daisy.",
+        "metadata": {
+          "chapter": "Chapter 8"
+        },
+        "score": 0.7043901380119852
+      }
+    ]
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "In Chapter 7, what famous observation did Gatsby make about the hypnotic charm of Daisy's voice?",
+    "strategy": "B",
+    "gold_page": 105,
+    "evidence_quote": "Her voice is full of money",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p85_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 85,
+        "text": "As I watched him he adjusted himself a little, visibly. His hand took hold of hers, and as she said something low in his ear he turned toward her with a rush of emotion. I think that voice held him most, with its fluctuating, feverish warmth, because it couldn’t be over-dreamed—that voice was a deathless song.\n\nThey had forgotten me, but Daisy glanced up and held out her hand; Gatsby didn’t know me now at all. I looked once more at them and they looked back at me, remotely, possessed by intense life. Then I went out of the room and down the marble steps into the rain, leaving them there together.\n\nAbout this time an ambitious young reporter from New York arrived one morning at Gatsby’s door and asked him if he had anything to say.\n\n“Anything to say about what?” inquired Gatsby politely.",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.7166160843955398
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p131_3",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 131,
+        "text": "When they met again, two days later, it was Gatsby who was breathless, who was, somehow, betrayed. Her porch was bright with the bought luxury of star-shine; the wicker of the settee squeaked fashionably as she turned toward him and he kissed her curious and lovely mouth. She had caught a cold, and it made her voice huskier and more charming than ever, and Gatsby was overwhelmingly aware of the youth and mystery that wealth imprisons and preserves, of the freshness of many clothes, and of Daisy, gleaming like silver, safe and proud above the hot struggles of the poor.",
+        "metadata": {
+          "chapter": "Chapter 8"
+        },
+        "score": 0.7125962319897353
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p104_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 104,
+        "text": "“Who wants to go to town?” demanded Daisy insistently. Gatsby’s eyes floated toward her. “Ah,” she cried, “you look so cool.”\n\nTheir eyes met, and they stared together at each other, alone in space. With an effort she glanced down at the table.\n\n“You always look so cool,” she repeated.\n\nShe had told him that she loved him, and Tom Buchanan saw. He was astounded. His mouth opened a little, and he looked at Gatsby, and then back at Daisy as if he had just recognized her as someone he knew a long time ago.\n\n“You resemble the advertisement of the man,” she went on innocently. “You know the advertisement of the man—”\n\n“All right,” broke in Tom quickly, “I’m perfectly willing to go to town. Come on—we’re all going to town.”",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7100009103859544
+      }
+    ]
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "Why did Gatsby admit to Tom Buchanan that he could not honestly label himself an Oxford man?",
+    "strategy": "B",
+    "gold_page": 113,
+    "evidence_quote": "It was in nineteen-nineteen, I only stayed five months. That’s why I can’t really call myself an Oxford man",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p113_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 113,
+        "text": "“By the way, Mr. Gatsby, I understand you’re an Oxford man.”\n\n“Not exactly.”\n\n“Oh, yes, I understand you went to Oxford.”\n\n“Yes—I went there.”\n\nA pause. Then Tom’s voice, incredulous and insulting:\n\n“You must have gone there about the time Biloxi went to New Haven.”\n\nAnother pause. A waiter knocked and came in with crushed mint and ice but the silence was unbroken by his “thank you” and the soft closing of the door. This tremendous detail was to be cleared up at last.\n\n“I told you I went there,” said Gatsby.\n\n“I heard you, but I’d like to know when.”\n\n“It was in nineteen-nineteen, I only stayed five months. That’s why I can’t really call myself an Oxford man.”\n\nTom glanced around to see if we mirrored his unbelief. But we were all looking at Gatsby.",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.8127213618542117
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p43_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 43,
+        "text": "Almost at the moment when Mr. Gatsby identified himself a butler hurried toward him with the information that Chicago was calling him on the wire. He excused himself with a small bow that included each of us in turn.\n\n“If you want anything just ask for it, old sport,” he urged me. “Excuse me. I will rejoin you later.”\n\nWhen he was gone I turned immediately to Jordan—constrained to assure her of my surprise. I had expected that Mr. Gatsby would be a florid and corpulent person in his middle years.\n\n“Who is he?” I demanded. “Do you know?”\n\n“He’s just a man named Gatsby.”\n\n“Where is he from, I mean? And what does he do?”\n\n“Now you’re started on the subject,” she answered with a wan smile. “Well, he told me once he was an Oxford man.”",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7568046939306974
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p107_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 107,
+        "text": "“Nevertheless he’s an Oxford man.”\n\n“Oxford, New Mexico,” snorted Tom contemptuously, “or something like that.”\n\n“Listen, Tom. If you’re such a snob, why did you invite him to lunch?” demanded Jordan crossly.\n\n“Daisy invited him; she knew him before we were married—God knows where!”\n\nWe were all irritable now with the fading ale, and aware of it we drove for a while in silence. Then as Doctor T. J. Eckleburg’s faded eyes came into sight down the road, I remembered Gatsby’s caution about gasoline.\n\n“We’ve got enough to get us to town,” said Tom.\n\n“But there’s a garage right here,” objected Jordan. “I don’t want to get stalled in this baking heat.”",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7315505480277734
+      }
+    ]
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "What suspicious object did George Wilson show Michaelis from his office desk drawer after originally discovering it wrapped in tissue paper on Myrtle's bureau the afternoon before?",
+    "strategy": "B",
+    "gold_page": 139,
+    "evidence_quote": "small, expensive dog-leash, made of leather and braided silver",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p140_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 140,
+        "text": "“This?” he inquired, holding it up.\n\nWilson stared and nodded.\n\n“I found it yesterday afternoon. She tried to tell me about it, but I knew it was something funny.”\n\n“You mean your wife bought it?”\n\n“She had it wrapped in tissue paper on her bureau.”\n\nMichaelis didn’t see anything odd in that, and he gave Wilson a dozen reasons why his wife might have bought the dog-leash. But conceivably Wilson had heard some of these same explanations before, from Myrtle, because he began saying “Oh, my God!” again in a whisper—his comforter left several explanations in the air.\n\n“Then he killed her,” said Wilson. His mouth dropped open suddenly.\n\n“Who did?”\n\n“I have a way of finding out.”",
+        "metadata": {
+          "chapter": "Chapter 8"
+        },
+        "score": 0.7532387048965863
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p138_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 138,
+        "text": "Until long after midnight a changing crowd lapped up against the front of the garage, while George Wilson rocked himself back and forth on the couch inside. For a while the door of the office was open, and everyone who came into the garage glanced irresistibly through it. Finally someone said it was a shame, and closed the door. Michaelis and several other men were with him; first, four or five men, later two or three men. Still later Michaelis had to ask the last stranger to wait there fifteen minutes longer, while he went back to his own place and made a pot of coffee. After that, he stayed there alone with Wilson until dawn.",
+        "metadata": {
+          "chapter": "Chapter 8"
+        },
+        "score": 0.6686748623911705
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p123_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 123,
+        "text": "Myrtle Wilson’s body, wrapped in a blanket, and then in another blanket, as though she suffered from a chill in the hot night, lay on a worktable by the wall, and Tom, with his back to us, was bending over it, motionless. Next to him stood a motorcycle policeman taking down names with much sweat and correction in a little book. At first I couldn’t find the source of the high, groaning words that echoed clamorously through the bare garage—then I saw Wilson standing on the raised threshold of his office, swaying back and forth and holding to the doorposts with both hands. Some man was talking to him in a low voice and attempting, from time to time, to lay a hand on his shoulder, but Wilson neither heard nor saw. His eyes would drop slowly from the swinging light to the laden table by the wall, and then jerk back to the light again, and he gave out incessantly his high, horrible call:",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.6653535832516871
+      }
+    ]
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "Aside from Nick Carraway, Henry C. Gatz, the Lutheran minister, the West Egg postman, and a few servants who rode in the three-car funeral procession, which former party guest unexpectedly arrived in a separate car at the cemetery gate for Gatsby's burial?",
+    "strategy": "B",
+    "gold_page": 154,
+    "evidence_quote": "It was the man with owl-eyed glasses whom I had found marvelling over Gatsby’s books in the library one night three months before",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p154_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 154,
+        "text": "About five o’clock our procession of three cars reached the cemetery and stopped in a thick drizzle beside the gate—first a motor hearse, horribly black and wet, then Mr. Gatz and the minister and me in the limousine, and a little later four or five servants and the postman from West Egg, in Gatsby’s station wagon, all wet to the skin. As we started through the gate into the cemetery I heard a car stop and then the sound of someone splashing after us over the soggy ground. I looked around. It was the man with owl-eyed glasses whom I had found marvelling over Gatsby’s books in the library one night three months before.",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.7905473358083773
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p154_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 154,
+        "text": "I’d never seen him since then. I don’t know how he knew about the funeral, or even his name. The rain poured down his thick glasses, and he took them off and wiped them to see the protecting canvas unrolled from Gatsby’s grave.\n\nI tried to think about Gatsby then for a moment, but he was already too far away, and I could only remember, without resentment, that Daisy hadn’t sent a message or a flower. Dimly I heard someone murmur “Blessed are the dead that the rain falls on,” and then the owl-eyed man said “Amen to that,” in a brave voice.",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.7102206601078063
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p154_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 154,
+        "text": "He was reluctant to close the book, reading each item aloud and then looking eagerly at me. I think he rather expected me to copy down the list for my own use.\n\nA little before three the Lutheran minister arrived from Flushing, and I began to look involuntarily out the windows for other cars. So did Gatsby’s father. And as the time passed and the servants came in and stood waiting in the hall, his eyes began to blink anxiously, and he spoke of the rain in a worried, uncertain way. The minister glanced several times at his watch, so I took him aside and asked him to wait for half an hour. But it wasn’t any use. Nobody came.",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.6938064833721904
       }
     ]
   },
@@ -98,6 +1830,872 @@
           "chapter": "Chapter 1"
         },
         "score": 0.6945741095259996
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p18_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 18,
+        "text": "“Did I?” She looked at me. “I can’t seem to remember, but I think we talked about the Nordic race. Yes, I’m sure we did. It sort of crept up on us and first thing you know—”\n\n“Don’t believe everything you hear, Nick,” he advised me.\n\nI said lightly that I had heard nothing at all, and a few minutes later I got up to go home. They came to the door with me and stood side by side in a cheerful square of light. As I started my motor Daisy peremptorily called: “Wait!\n\n“I forgot to ask you something, and it’s important. We heard you were engaged to a girl out West.”\n\n“That’s right,” corroborated Tom kindly. “We heard that you were engaged.”\n\n“It’s a libel. I’m too poor.”",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.6623915043326275
+      }
+    ]
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "question": "What occupational hazard caused the Buchanans' butler to lose his former silver-polishing job in New York?",
+    "strategy": "C",
+    "gold_page": 12,
+    "evidence_quote": "He had to polish it from morning till night, until finally it began to affect his nose",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p12_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 12,
+        "text": "There was something pathetic in his concentration, as if his complacency, more acute than of old, was not enough to him any more. When, almost immediately, the telephone rang inside and the butler left the porch Daisy seized upon the momentary interruption and leaned towards me.\n\n“I’ll tell you a family secret,” she whispered enthusiastically. “It’s about the butler’s nose. Do you want to hear about the butler’s nose?”\n\n“That’s why I came over tonight.”\n\n“Well, he wasn’t always a butler; he used to be the silver polisher for some people in New York that had a silver service for two hundred people. He had to polish it from morning till night, until finally it began to affect his nose—”\n\n“Things went from bad to worse,” suggested Miss Baker.",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.6791977651775488
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p99_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 99,
+        "text": "It was when curiosity about Gatsby was at its highest that the lights in his house failed to go on one Saturday night—and, as obscurely as it had begun, his career as Trimalchio was over. Only gradually did I become aware that the automobiles which turned expectantly into his drive stayed for just a minute and then drove sulkily away. Wondering if he were sick I went over to find out—an unfamiliar butler with a villainous face squinted at me suspiciously from the door.\n\n“Is Mr. Gatsby sick?”\n\n“Nope.” After a pause he added “sir” in a dilatory, grudging way.\n\n“I hadn’t seen him around, and I was rather worried. Tell him Mr. Carraway came over.”\n\n“Who?” he demanded rudely.\n\n“Carraway.”\n\n“Carraway. All right, I’ll tell him.”\n\nAbruptly he slammed the door.",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.6331697146573092
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p34_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 34,
+        "text": "Every Friday five crates of oranges and lemons arrived from a fruiterer in New York—every Monday these same oranges and lemons left his back door in a pyramid of pulpless halves. There was a machine in the kitchen which could extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.6319288981826301
+      }
+    ]
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "question": "Describe the peculiar features and scale of the oculist advertisement overlooking the valley of ashes.",
+    "strategy": "C",
+    "gold_page": 20,
+    "evidence_quote": "The eyes of Doctor T. J. Eckleburg are blue and gigantic—their retinas are one yard high",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p20_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 20,
+        "text": "But above the grey land and the spasms of bleak dust which drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J. Eckleburg are blue and gigantic—their retinas are one yard high. They look out of no face, but, instead, from a pair of enormous yellow spectacles which pass over a nonexistent nose. Evidently some wild wag of an oculist set them there to fatten his practice in the borough of Queens, and then sank down himself into eternal blindness, or forgot them and moved away. But his eyes, dimmed a little by many paintless days, under sun and rain, brood on over the solemn dumping ground.",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.7738744867020482
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p109_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 109,
+        "text": "That locality was always vaguely disquieting, even in the broad glare of afternoon, and now I turned my head as though I had been warned of something behind. Over the ash-heaps the giant eyes of Doctor T. J. Eckleburg kept their vigil, but I perceived, after a moment, that other eyes were regarding us with peculiar intensity from less than twenty feet away.",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7470498969175965
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p141_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 141,
+        "text": "“I spoke to her,” he muttered, after a long silence. “I told her she might fool me but she couldn’t fool God. I took her to the window”—with an effort he got up and walked to the rear window and leaned with his face pressed against it—“and I said ‘God knows what you’ve been doing, everything you’ve been doing. You may fool me, but you can’t fool God!’ ”\n\nStanding behind him, Michaelis saw with a shock that he was looking at the eyes of Doctor T. J. Eckleburg, which had just emerged, pale and enormous, from the dissolving night.\n\n“God sees everything,” repeated Wilson.\n\n“That’s an advertisement,” Michaelis assured him. Something made him turn away from the window and look back into the room. But Wilson stood there a long time, his face close to the window pane, nodding into the twilight.",
+        "metadata": {
+          "chapter": "Chapter 8"
+        },
+        "score": 0.7248905343261738
+      }
+    ]
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "question": "What specific discovery made Myrtle Wilson realize that her marriage to George Wilson was a terrible mistake?",
+    "strategy": "C",
+    "gold_page": 31,
+    "evidence_quote": "He borrowed somebody’s best suit to get married in, and never even told me about it",
+    "hit@1": false,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p30_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 30,
+        "text": "“I almost made a mistake, too,” she declared vigorously. “I almost married a little kike who’d been after me for years. I knew he was below me. Everybody kept saying to me: ‘Lucille, that man’s way below you!’ But if I hadn’t met Chester, he’d of got me sure.”\n\n“Yes, but listen,” said Myrtle Wilson, nodding her head up and down, “at least you didn’t marry him.”\n\n“I know I didn’t.”\n\n“Well, I married him,” said Myrtle, ambiguously. “And that’s the difference between your case and mine.”\n\n“Why did you, Myrtle?” demanded Catherine. “Nobody forced you to.”\n\nMyrtle considered.\n\n“I married him because I thought he was a gentleman,” she said finally. “I thought he knew something about breeding, but he wasn’t fit to lick my shoe.”\n\n“You were crazy about him for a while,” said Catherine.",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.7594468984042008
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p31_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 31,
+        "text": "“Crazy about him!” cried Myrtle incredulously. “Who said I was crazy about him? I never was any more crazy about him than I was about that man there.”\n\nShe pointed suddenly at me, and everyone looked at me accusingly. I tried to show by my expression that I expected no affection.\n\n“The only crazy I was was when I married him. I knew right away I made a mistake. He borrowed somebody’s best suit to get married in, and never even told me about it, and the man came after it one day when he was out: ‘Oh, is that your suit?’ I said. ‘This is the first I ever heard about it.’ But I gave it to him and then I lay down and cried to beat the band all afternoon.”",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.7497183741065662
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p109_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 109,
+        "text": "In one of the windows over the garage the curtains had been moved aside a little, and Myrtle Wilson was peering down at the car. So engrossed was she that she had no consciousness of being observed, and one emotion after another crept into her face like objects into a slowly developing picture. Her expression was curiously familiar—it was an expression I had often seen on women’s faces, but on Myrtle Wilson’s face it seemed purposeless and inexplicable until I realized that her eyes, wide with jealous terror, were fixed not on Tom, but on Jordan Baker, whom she took to be his wife.",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.70173475271083
+      }
+    ]
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "question": "In Chapter 2, what violent physical altercation occurred between Tom Buchanan and Myrtle when she shouted Daisy's name?",
+    "strategy": "C",
+    "gold_page": 33,
+    "evidence_quote": "Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p33_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 33,
+        "text": "The little dog was sitting on the table looking with blind eyes through the smoke, and from time to time groaning faintly. People disappeared, reappeared, made plans to go somewhere, and then lost each other, searched for each other, found each other a few feet away. Some time toward midnight Tom Buchanan and Mrs. Wilson stood face to face discussing, in impassioned voices, whether Mrs. Wilson had any right to mention Daisy’s name.\n\n“Daisy! Daisy! Daisy!” shouted Mrs. Wilson. “I’ll say it whenever I want to! Daisy! Dai—”\n\nMaking a short deft movement, Tom Buchanan broke her nose with his open hand.",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.7404927655441599
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p32_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 32,
+        "text": "Myrtle pulled her chair close to mine, and suddenly her warm breath poured over me the story of her first meeting with Tom.",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.6652397284381522
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p29_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 29,
+        "text": "Catherine leaned close to me and whispered in my ear:\n\n“Neither of them can stand the person they’re married to.”\n\n“Can’t they?”\n\n“Can’t stand them.” She looked at Myrtle and then at Tom. “What I say is, why go on living with them if they can’t stand them? If I was them I’d get a divorce and get married to each other right away.”\n\n“Doesn’t she like Wilson either?”\n\nThe answer to this was unexpected. It came from Myrtle, who had overheard the question, and it was violent and obscene.\n\n“You see,” cried Catherine triumphantly. She lowered her voice again. “It’s really his wife that’s keeping them apart. She’s a Catholic, and they don’t believe in divorce.”\n\nDaisy was not a Catholic, and I was a little shocked at the elaborateness of the lie.",
+        "metadata": {
+          "chapter": "Chapter 2"
+        },
+        "score": 0.6573936322759927
+      }
+    ]
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "question": "What specialized mechanical device was in Gatsby's kitchen to prepare fresh citrus juice for his weekend parties?",
+    "strategy": "C",
+    "gold_page": 34,
+    "evidence_quote": "extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p34_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 34,
+        "text": "Every Friday five crates of oranges and lemons arrived from a fruiterer in New York—every Monday these same oranges and lemons left his back door in a pyramid of pulpless halves. There was a machine in the kitchen which could extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7580585399168445
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p35_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 35,
+        "text": "At least once a fortnight a corps of caterers came down with several hundred feet of canvas and enough coloured lights to make a Christmas tree of Gatsby’s enormous garden. On buffet tables, garnished with glistening hors-d’oeuvre, spiced baked hams crowded against salads of harlequin designs and pastry pigs and turkeys bewitched to a dark gold. In the main hall a bar with a real brass rail was set up, and stocked with gins and liquors and with cordials so long forgotten that most of his female guests were too young to know one from another.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.6975829914279054
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p80_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 80,
+        "text": "We went upstairs, through period bedrooms swathed in rose and lavender silk and vivid with new flowers, through dressing-rooms and poolrooms, and bathrooms with sunken baths—intruding into one chamber where a dishevelled man in pyjamas was doing liver exercises on the floor. It was Mr. Klipspringer, the “boarder.” I had seen him wandering hungrily about the beach that morning. Finally we came to Gatsby’s own apartment, a bedroom and a bath, and an Adam’s study, where we sat down and drank a glass of some Chartreuse he took from a cupboard in the wall.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.6650554374074304
+      }
+    ]
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "question": "What surprising revelation did the stout owl-eyed guest discover about the library in Gatsby's mansion?",
+    "strategy": "C",
+    "gold_page": 40,
+    "evidence_quote": "It’s a bona-fide piece of printed matter. It fooled me. This fella’s a regular Belasco",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p80_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 80,
+        "text": "And inside, as we wandered through Marie Antoinette music-rooms and Restoration Salons, I felt that there were guests concealed behind every couch and table, under orders to be breathlessly silent until we had passed through. As Gatsby closed the door of “the Merton College Library” I could have sworn I heard the owl-eyed man break into ghostly laughter.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7524203585210872
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p40_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 40,
+        "text": "A stout, middle-aged man, with enormous owl-eyed spectacles, was sitting somewhat drunk on the edge of a great table, staring with unsteady concentration at the shelves of books. As we entered he wheeled excitedly around and examined Jordan from head to foot.\n\n“What do you think?” he demanded impetuously.\n\n“About what?”\n\nHe waved his hand toward the bookshelves.\n\n“About that. As a matter of fact you needn’t bother to ascertain. I ascertained. They’re real.”\n\n“The books?”\n\nHe nodded.\n\n“Absolutely real—have pages and everything. I thought they’d be a nice durable cardboard. Matter of fact, they’re absolutely real. Pages and—Here! Lemme show you.”\n\nTaking our scepticism for granted, he rushed to the bookcases and returned with Volume One of the Stoddard Lectures.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7328640726103159
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p39_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 39,
+        "text": "“Let’s get out,” whispered Jordan, after a somehow wasteful and inappropriate half-hour; “this is much too polite for me.”\n\nWe got up, and she explained that we were going to find the host: I had never met him, she said, and it was making me uneasy. The undergraduate nodded in a cynical, melancholy way.\n\nThe bar, where we glanced first, was crowded, but Gatsby was not there. She couldn’t find him from the top of the steps, and he wasn’t on the veranda. On a chance we tried an important-looking door, and walked into a high Gothic library, panelled with carved English oak, and probably transported complete from some ruin overseas.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7236351061657115
+      }
+    ]
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "question": "Who was actually driving the coupé that sheared its wheel and ended up in the ditch after Gatsby's party?",
+    "strategy": "C",
+    "gold_page": 48,
+    "evidence_quote": "I wasn’t driving. There’s another man in the car",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p47_3",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 47,
+        "text": "But as I walked down the steps I saw that the evening was not quite over. Fifty feet from the door a dozen headlights illuminated a bizarre and tumultuous scene. In the ditch beside the road, right side up, but violently shorn of one wheel, rested a new coupé which had left Gatsby’s drive not two minutes before. The sharp jut of a wall accounted for the detachment of the wheel, which was now getting considerable attention from half a dozen curious chauffeurs. However, as they had left their cars blocking the road, a harsh, discordant din from those in the rear had been audible for some time, and added to the already violent confusion of the scene.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.8024432537855236
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p48_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 48,
+        "text": "A man in a long duster had dismounted from the wreck and now stood in the middle of the road, looking from the car to the tyre and from the tyre to the observers in a pleasant, puzzled way.\n\n“See!” he explained. “It went in the ditch.”\n\nThe fact was infinitely astonishing to him, and I recognized first the unusual quality of wonder, and then the man—it was the late patron of Gatsby’s library.\n\n“How’d it happen?”\n\nHe shrugged his shoulders.\n\n“I know nothing whatever about mechanics,” he said decisively.\n\n“But how did it happen? Did you run into the wall?”\n\n“Don’t ask me,” said Owl Eyes, washing his hands of the whole matter. “I know very little about driving—next to nothing. It happened, and that’s all I know.”\n\n“Well, if you’re a poor driver you oughtn’t to try driving at night.”",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7443782055073463
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p127_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 127,
+        "text": "He spoke as if Daisy’s reaction was the only thing that mattered.\n\n“I got to West Egg by a side road,” he went on, “and left the car in my garage. I don’t think anybody saw us, but of course I can’t be sure.”\n\nI disliked him so much by this time that I didn’t find it necessary to tell him he was wrong.\n\n“Who was the woman?” he inquired.\n\n“Her name was Wilson. Her husband owns the garage. How the devil did it happen?”\n\n“Well, I tried to swing the wheel—” He broke off, and suddenly I guessed at the truth.\n\n“Was Daisy driving?”",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7216368657280999
+      }
+    ]
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "question": "What past sporting scandal was whispered about Jordan Baker during her first big golf tournament?",
+    "strategy": "C",
+    "gold_page": 51,
+    "evidence_quote": "she had moved her ball from a bad lie in the semifinal round",
+    "hit@1": false,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p17_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 17,
+        "text": "“Jordan’s going to play in the tournament tomorrow,” explained Daisy, “over at Westchester.”\n\n“Oh—you’re Jordan Baker.”\n\nI knew now why her face was familiar—its pleasing contemptuous expression had looked out at me from many rotogravure pictures of the sporting life at Asheville and Hot Springs and Palm Beach. I had heard some story of her too, a critical, unpleasant story, but what it was I had forgotten long ago.\n\n“Good night,” she said softly. “Wake me at eight, won’t you.”\n\n“If you’ll get up.”\n\n“I will. Good night, Mr. Carraway. See you anon.”",
+        "metadata": {
+          "chapter": "Chapter 1"
+        },
+        "score": 0.713479768827733
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p51_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 51,
+        "text": "For a while I lost sight of Jordan Baker, and then in midsummer I found her again. At first I was flattered to go places with her, because she was a golf champion, and everyone knew her name. Then it was something more. I wasn’t actually in love, but I felt a sort of tender curiosity. The bored haughty face that she turned to the world concealed something—most affectations conceal something eventually, even though they don’t in the beginning—and one day I found what it was. When we were on a house-party together up in Warwick, she left a borrowed car out in the rain with the top down, and then lied about it—and suddenly I remembered the story about her that had eluded me that night at Daisy’s. At her first big golf tournament there was a row that nearly reached the newspapers—a suggestion that she had moved her ball from a bad lie in the semifinal round. The thing approached the proportions of a scandal—then died away. A caddy retracted his statement, and the only other witness admitted that he might have been mistaken. The incident and the name had remained together in my mind.",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7129889585802774
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p64_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 64,
+        "text": "“Who is he, anyhow, an actor?”\n\n“No.”\n\n“A dentist?”\n\n“Meyer Wolfshiem? No, he’s a gambler.” Gatsby hesitated, then added, coolly: “He’s the man who fixed the World’s Series back in 1919.”\n\n“Fixed the World’s Series?” I repeated.\n\nThe idea staggered me. I remembered, of course, that the World’s Series had been fixed in 1919, but if I had thought of it at all I would have thought of it as a thing that merely happened, the end of some inevitable chain. It never occurred to me that one man could start to play with the faith of fifty million people—with the single-mindedness of a burglar blowing a safe.\n\n“How did he happen to do that?” I asked after a minute.\n\n“He just saw the opportunity.”\n\n“Why isn’t he in jail?”",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.6628378755643994
+      }
+    ]
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "question": "What specific war medal did Gatsby display to Nick as tangible proof of his heroism in the Great War?",
+    "strategy": "C",
+    "gold_page": 58,
+    "evidence_quote": "Orderi di Danilo",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p58_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 58,
+        "text": "Little Montenegro! He lifted up the words and nodded at them—with his smile. The smile comprehended Montenegro’s troubled history and sympathized with the brave struggles of the Montenegrin people. It appreciated fully the chain of national circumstances which had elicited this tribute from Montenegro’s warm little heart. My incredulity was submerged in fascination now; it was like skimming hastily through a dozen magazines.\n\nHe reached in his pocket, and a piece of metal, slung on a ribbon, fell into my palm.\n\n“That’s the one from Montenegro.”\n\nTo my astonishment, the thing had an authentic look. “Orderi di Danilo,” ran the circular legend, “Montenegro, Nicolas Rex.”\n\n“Turn it.”\n\n“Major Jay Gatsby,” I read, “For Valour Extraordinary.”",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.7819680257811892
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p58_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 58,
+        "text": "“Here’s another thing I always carry. A souvenir of Oxford days. It was taken in Trinity Quad—the man on my left is now the Earl of Doncaster.”\n\nIt was a photograph of half a dozen young men in blazers loafing in an archway through which were visible a host of spires. There was Gatsby, looking a little, not much, younger—with a cricket bat in his hand.\n\nThen it was all true. I saw the skins of tigers flaming in his palace on the Grand Canal; I saw him opening a chest of rubies to ease, with their crimson-lighted depths, the gnawings of his broken heart.",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.6649754166126557
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p63_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 63,
+        "text": "“Several years,” he answered in a gratified way. “I made the pleasure of his acquaintance just after the war. But I knew I had discovered a man of fine breeding after I talked with him an hour. I said to myself: ‘There’s the kind of man you’d like to take home and introduce to your mother and sister.’ ” He paused. “I see you’re looking at my cuff buttons.”\n\nI hadn’t been looking at them, but I did now. They were composed of oddly familiar pieces of ivory.\n\n“Finest specimens of human molars,” he informed me.\n\n“Well!” I inspected them. “That’s a very interesting idea.”\n\n“Yeah.” He flipped his sleeves up under his coat. “Yeah, Gatsby’s very careful about women. He would never so much as look at a friend’s wife.”",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.6591486975211981
+      }
+    ]
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "question": "In Chapter 4, what gruesome item did Meyer Wolfshiem boast that his cuff buttons were crafted from?",
+    "strategy": "C",
+    "gold_page": 63,
+    "evidence_quote": "Finest specimens of human molars",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p63_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 63,
+        "text": "“Several years,” he answered in a gratified way. “I made the pleasure of his acquaintance just after the war. But I knew I had discovered a man of fine breeding after I talked with him an hour. I said to myself: ‘There’s the kind of man you’d like to take home and introduce to your mother and sister.’ ” He paused. “I see you’re looking at my cuff buttons.”\n\nI hadn’t been looking at them, but I did now. They were composed of oddly familiar pieces of ivory.\n\n“Finest specimens of human molars,” he informed me.\n\n“Well!” I inspected them. “That’s a very interesting idea.”\n\n“Yeah.” He flipped his sleeves up under his coat. “Yeah, Gatsby’s very careful about women. He would never so much as look at a friend’s wife.”",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.7361139528356853
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p64_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 64,
+        "text": "“Who is he, anyhow, an actor?”\n\n“No.”\n\n“A dentist?”\n\n“Meyer Wolfshiem? No, he’s a gambler.” Gatsby hesitated, then added, coolly: “He’s the man who fixed the World’s Series back in 1919.”\n\n“Fixed the World’s Series?” I repeated.\n\nThe idea staggered me. I remembered, of course, that the World’s Series had been fixed in 1919, but if I had thought of it at all I would have thought of it as a thing that merely happened, the end of some inevitable chain. It never occurred to me that one man could start to play with the faith of fifty million people—with the single-mindedness of a burglar blowing a safe.\n\n“How did he happen to do that?” I asked after a minute.\n\n“He just saw the opportunity.”\n\n“Why isn’t he in jail?”",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.6628332992387509
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p62_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 62,
+        "text": "“It was four o’clock in the morning then, and if we’d of raised the blinds we’d of seen daylight.”\n\n“Did he go?” I asked innocently.\n\n“Sure he went.” Mr. Wolfshiem’s nose flashed at me indignantly. “He turned around in the door and says: ‘Don’t let that waiter take away my coffee!’ Then he went out on the sidewalk, and they shot him three times in his full belly and drove away.”\n\n“Four of them were electrocuted,” I said, remembering.\n\n“Five, with Becker.” His nostrils turned to me in an interested way. “I understand you’re looking for a business gonnegtion.”\n\nThe juxtaposition of these two remarks was startling. Gatsby answered for me:\n\n“Oh, no,” he exclaimed, “this isn’t the man.”\n\n“No?” Mr. Wolfshiem seemed disappointed.",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.657255799892852
+      }
+    ]
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "question": "What notorious national betting feat was Meyer Wolfshiem credited with orchestrating in 1919?",
+    "strategy": "C",
+    "gold_page": 64,
+    "evidence_quote": "He’s the man who fixed the World’s Series back in 1919",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p64_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 64,
+        "text": "“Who is he, anyhow, an actor?”\n\n“No.”\n\n“A dentist?”\n\n“Meyer Wolfshiem? No, he’s a gambler.” Gatsby hesitated, then added, coolly: “He’s the man who fixed the World’s Series back in 1919.”\n\n“Fixed the World’s Series?” I repeated.\n\nThe idea staggered me. I remembered, of course, that the World’s Series had been fixed in 1919, but if I had thought of it at all I would have thought of it as a thing that merely happened, the end of some inevitable chain. It never occurred to me that one man could start to play with the faith of fifty million people—with the single-mindedness of a burglar blowing a safe.\n\n“How did he happen to do that?” I asked after a minute.\n\n“He just saw the opportunity.”\n\n“Why isn’t he in jail?”",
+        "metadata": {
+          "chapter": "Chapter 4"
+        },
+        "score": 0.7490352707784728
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p152_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 152,
+        "text": "I wondered if this partnership had included the World’s Series transaction in 1919.\n\n“Now he’s dead,” I said after a moment. “You were his closest friend, so I know you’ll want to come to his funeral this afternoon.”\n\n“I’d like to come.”\n\n“Well, come then.”\n\nThe hair in his nostrils quivered slightly, and as he shook his head his eyes filled with tears.\n\n“I can’t do it—I can’t get mixed up in it,” he said.\n\n“There’s nothing to get mixed up in. It’s all over now.”\n\n“When a man gets killed I never like to get mixed up in it in any way. I keep out. When I was a young man it was different—if a friend of mine died, no matter how, I stuck with them to the end. You may think that’s sentimental, but I mean it—to the bitter end.”",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.6382986916289589
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p146_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 146,
+        "text": "Dear Mr. Carraway. This has been one of the most terrible shocks of my life to me I hardly can believe it that it is true at all. Such a mad act as that man did should make us all think. I cannot come down now as I am tied up in some very important business and cannot get mixed up in this thing now. If there is anything I can do a little later let me know in a letter by Edgar. I hardly know where I am when I hear about a thing like this and am completely knocked down and out.\n\nYours truly\n\nMeyer Wolfshiem\n\nand then hasty addenda beneath:",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.6229728301609437
+      }
+    ]
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "question": "What physical incident happened to the mantelpiece clock when Gatsby nervously met Daisy at Nick's cottage?",
+    "strategy": "C",
+    "gold_page": 76,
+    "evidence_quote": "His head leaned back so far that it rested against the face of a defunct mantelpiece clock",
+    "hit@1": false,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p76_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 76,
+        "text": "“We’ve met before,” muttered Gatsby. His eyes glanced momentarily at me, and his lips parted with an abortive attempt at a laugh. Luckily the clock took this moment to tilt dangerously at the pressure of his head, whereupon he turned and caught it with trembling fingers, and set it back in place. Then he sat down, rigidly, his elbow on the arm of the sofa and his chin in his hand.\n\n“I’m sorry about the clock,” he said.\n\nMy own face had now assumed a deep tropical burn. I couldn’t muster up a single commonplace out of the thousand in my head.\n\n“It’s an old clock,” I told them idiotically.\n\nI think we all believed for a moment that it had smashed in pieces on the floor.\n\n“We haven’t met for many years,” said Daisy, her voice as matter-of-fact as it could ever be.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.8060134295161399
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p76_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 76,
+        "text": "For half a minute there wasn’t a sound. Then from the living-room I heard a sort of choking murmur and part of a laugh, followed by Daisy’s voice on a clear artificial note:\n\n“I certainly am awfully glad to see you again.”\n\nA pause; it endured horribly. I had nothing to do in the hall, so I went into the room.\n\nGatsby, his hands still in his pockets, was reclining against the mantelpiece in a strained counterfeit of perfect ease, even of boredom. His head leaned back so far that it rested against the face of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting, frightened but graceful, on the edge of a stiff chair.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7891285142932111
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p81_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 81,
+        "text": "His bedroom was the simplest room of all—except where the dresser was garnished with a toilet set of pure dull gold. Daisy took the brush with delight, and smoothed her hair, whereupon Gatsby sat down and shaded his eyes and began to laugh.\n\n“It’s the funniest thing, old sport,” he said hilariously. “I can’t—When I try to—”\n\nHe had passed visibly through two states and was entering upon a third. After his embarrassment and his unreasoning joy he was consumed with wonder at her presence. He had been full of the idea so long, dreamed it right through to the end, waited with his teeth set, so to speak, at an inconceivable pitch of intensity. Now, in the reaction, he was running down like an over-wound clock.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7197532006590784
+      }
+    ]
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "question": "What unexpected sight caused Daisy Buchanan to sob uncontrollably into a pile of fabric during her tour of Gatsby's bedroom?",
+    "strategy": "C",
+    "gold_page": 82,
+    "evidence_quote": "They’re such beautiful shirts",
+    "hit@1": false,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p81_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 81,
+        "text": "He took out a pile of shirts and began throwing them, one by one, before us, shirts of sheer linen and thick silk and fine flannel, which lost their folds as they fell and covered the table in many-coloured disarray. While we admired he brought more and the soft rich heap mounted higher—shirts with stripes and scrolls and plaids in coral and apple-green and lavender and faint orange, with monograms of indian blue. Suddenly, with a strained sound, Daisy bent her head into the shirts and began to cry stormily.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7817348578704887
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p82_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 82,
+        "text": "“They’re such beautiful shirts,” she sobbed, her voice muffled in the thick folds. “It makes me sad because I’ve never seen such—such beautiful shirts before.”\n\nAfter the house, we were to see the grounds and the swimming pool, and the hydroplane, and the midsummer flowers—but outside Gatsby’s window it began to rain again, so we stood in a row looking at the corrugated surface of the Sound.\n\n“If it wasn’t for the mist we could see your home across the bay,” said Gatsby. “You always have a green light that burns all night at the end of your dock.”",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7245852870861217
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p76_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 76,
+        "text": "For half a minute there wasn’t a sound. Then from the living-room I heard a sort of choking murmur and part of a laugh, followed by Daisy’s voice on a clear artificial note:\n\n“I certainly am awfully glad to see you again.”\n\nA pause; it endured horribly. I had nothing to do in the hall, so I went into the room.\n\nGatsby, his hands still in his pockets, was reclining against the mantelpiece in a strained counterfeit of perfect ease, even of boredom. His head leaned back so far that it rested against the face of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting, frightened but graceful, on the edge of a stiff chair.",
+        "metadata": {
+          "chapter": "Chapter 5"
+        },
+        "score": 0.7149635532516604
+      }
+    ]
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "question": "Why did young James Gatz leave St. Olaf's College in southern Minnesota after attending for merely two weeks?",
+    "strategy": "C",
+    "gold_page": 87,
+    "evidence_quote": "St. Olaf’s in southern Minnesota",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p87_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 87,
+        "text": "An instinct toward his future glory had led him, some months before, to the small Lutheran College of St. Olaf’s in southern Minnesota. He stayed there two weeks, dismayed at its ferocious indifference to the drums of his destiny, to destiny itself, and despising the janitor’s work with which he was to pay his way through. Then he drifted back to Lake Superior, and he was still searching for something to do on the day that Dan Cody’s yacht dropped anchor in the shallows alongshore.",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.7268982404305089
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p86_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 86,
+        "text": "James Gatz—that was really, or at least legally, his name. He had changed it at the age of seventeen and at the specific moment that witnessed the beginning of his career—when he saw Dan Cody’s yacht drop anchor over the most insidious flat on Lake Superior. It was James Gatz who had been loafing along the beach that afternoon in a torn green jersey and a pair of canvas pants, but it was already Jay Gatsby who borrowed a rowboat, pulled out to the Tuolomee, and informed Cody that a wind might catch him and break him up in half an hour.",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.6964832476856928
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p88_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 88,
+        "text": "To young Gatz, resting on his oars and looking up at the railed deck, that yacht represented all the beauty and glamour in the world. I suppose he smiled at Cody—he had probably discovered that people liked him when he smiled. At any rate Cody asked him a few questions (one of them elicited the brand new name) and found that he was quick and extravagantly ambitious. A few days later he took him to Duluth and bought him a blue coat, six pairs of white duck trousers, and a yachting cap. And when the Tuolomee left for the West Indies and the Barbary Coast, Gatsby left too.",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.6721026564607141
+      }
+    ]
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "How much money did Dan Cody leave Gatsby in his legacy, and why did Gatsby never receive it?",
+    "strategy": "C",
+    "gold_page": 89,
+    "evidence_quote": "inherited money—a legacy of twenty-five thousand dollars. He didn’t get it",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p89_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 89,
+        "text": "And it was from Cody that he inherited money—a legacy of twenty-five thousand dollars. He didn’t get it. He never understood the legal device that was used against him, but what remained of the millions went intact to Ella Kaye. He was left with his singularly appropriate education; the vague contour of Jay Gatsby had filled out to the substantiality of a man.\n\nHe told me all this very much later, but I’ve put it down here with the idea of exploding those first wild rumours about his antecedents, which weren’t even faintly true. Moreover he told it to me at a time of confusion, when I had reached the point of believing everything and nothing about him. So I take advantage of this short halt, while Gatsby, so to speak, caught his breath, to clear this set of misconceptions away.",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.7674945601473967
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p88_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 88,
+        "text": "He was employed in a vague personal capacity—while he remained with Cody he was in turn steward, mate, skipper, secretary, and even jailor, for Dan Cody sober knew what lavish doings Dan Cody drunk might soon be about, and he provided for such contingencies by reposing more and more trust in Gatsby. The arrangement lasted five years, during which the boat went three times around the Continent. It might have lasted indefinitely except for the fact that Ella Kaye came on board one night in Boston and a week later Dan Cody inhospitably died.",
+        "metadata": {
+          "chapter": "Chapter 6"
+        },
+        "score": 0.7158757889526557
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p130_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 130,
+        "text": "He wouldn’t consider it. He couldn’t possibly leave Daisy until he knew what she was going to do. He was clutching at some last hope and I couldn’t bear to shake him free.\n\nIt was this night that he told me the strange story of his youth with Dan Cody—told it to me because “Jay Gatsby” had broken up like glass against Tom’s hard malice, and the long secret extravaganza was played out. I think that he would have acknowledged anything now, without reserve, but he wanted to talk about Daisy.",
+        "metadata": {
+          "chapter": "Chapter 8"
+        },
+        "score": 0.7043901380119852
+      }
+    ]
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "In Chapter 7, what famous observation did Gatsby make about the hypnotic charm of Daisy's voice?",
+    "strategy": "C",
+    "gold_page": 105,
+    "evidence_quote": "Her voice is full of money",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p104_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 104,
+        "text": "“Who wants to go to town?” demanded Daisy insistently. Gatsby’s eyes floated toward her. “Ah,” she cried, “you look so cool.”\n\nTheir eyes met, and they stared together at each other, alone in space. With an effort she glanced down at the table.\n\n“You always look so cool,” she repeated.\n\nShe had told him that she loved him, and Tom Buchanan saw. He was astounded. His mouth opened a little, and he looked at Gatsby, and then back at Daisy as if he had just recognized her as someone he knew a long time ago.\n\n“You resemble the advertisement of the man,” she went on innocently. “You know the advertisement of the man—”\n\n“All right,” broke in Tom quickly, “I’m perfectly willing to go to town. Come on—we’re all going to town.”",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7100009103859544
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p105_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 105,
+        "text": "They went upstairs to get ready while we three men stood there shuffling the hot pebbles with our feet. A silver curve of the moon hovered already in the western sky. Gatsby started to speak, changed his mind, but not before Tom wheeled and faced him expectantly.\n\n“Have you got your stables here?” asked Gatsby with an effort.\n\n“About a quarter of a mile down the road.”\n\n“Oh.”\n\nA pause.\n\n“I don’t see the idea of going to town,” broke out Tom savagely. “Women get these notions in their heads—”\n\n“Shall we take anything to drink?” called Daisy from an upper window.\n\n“I’ll get some whisky,” answered Tom. He went inside.\n\nGatsby turned to me rigidly:\n\n“I can’t say anything in his house, old sport.”\n\n“She’s got an indiscreet voice,” I remarked. “It’s full of—” I hesitated.",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.6840767698016462
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p116_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 116,
+        "text": "“You’re revolting,” said Daisy. She turned to me, and her voice, dropping an octave lower, filled the room with thrilling scorn: “Do you know why we left Chicago? I’m surprised that they didn’t treat you to the story of that little spree.”\n\nGatsby walked over and stood beside her.\n\n“Daisy, that’s all over now,” he said earnestly. “It doesn’t matter any more. Just tell him the truth—that you never loved him—and it’s all wiped out forever.”\n\nShe looked at him blindly. “Why—how could I love him—possibly?”\n\n“You never loved him.”\n\nShe hesitated. Her eyes fell on Jordan and me with a sort of appeal, as though she realized at last what she was doing—and as though she had never, all along, intended doing anything at all. But it was done now. It was too late.",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.6733296170898857
+      }
+    ]
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "Why did Gatsby admit to Tom Buchanan that he could not honestly label himself an Oxford man?",
+    "strategy": "C",
+    "gold_page": 113,
+    "evidence_quote": "It was in nineteen-nineteen, I only stayed five months. That’s why I can’t really call myself an Oxford man",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p113_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 113,
+        "text": "“By the way, Mr. Gatsby, I understand you’re an Oxford man.”\n\n“Not exactly.”\n\n“Oh, yes, I understand you went to Oxford.”\n\n“Yes—I went there.”\n\nA pause. Then Tom’s voice, incredulous and insulting:\n\n“You must have gone there about the time Biloxi went to New Haven.”\n\nAnother pause. A waiter knocked and came in with crushed mint and ice but the silence was unbroken by his “thank you” and the soft closing of the door. This tremendous detail was to be cleared up at last.\n\n“I told you I went there,” said Gatsby.\n\n“I heard you, but I’d like to know when.”\n\n“It was in nineteen-nineteen, I only stayed five months. That’s why I can’t really call myself an Oxford man.”\n\nTom glanced around to see if we mirrored his unbelief. But we were all looking at Gatsby.",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.8127213618542117
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p43_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 43,
+        "text": "Almost at the moment when Mr. Gatsby identified himself a butler hurried toward him with the information that Chicago was calling him on the wire. He excused himself with a small bow that included each of us in turn.\n\n“If you want anything just ask for it, old sport,” he urged me. “Excuse me. I will rejoin you later.”\n\nWhen he was gone I turned immediately to Jordan—constrained to assure her of my surprise. I had expected that Mr. Gatsby would be a florid and corpulent person in his middle years.\n\n“Who is he?” I demanded. “Do you know?”\n\n“He’s just a man named Gatsby.”\n\n“Where is he from, I mean? And what does he do?”\n\n“Now you’re started on the subject,” she answered with a wan smile. “Well, he told me once he was an Oxford man.”",
+        "metadata": {
+          "chapter": "Chapter 3"
+        },
+        "score": 0.7568046939306974
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p107_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 107,
+        "text": "“Nevertheless he’s an Oxford man.”\n\n“Oxford, New Mexico,” snorted Tom contemptuously, “or something like that.”\n\n“Listen, Tom. If you’re such a snob, why did you invite him to lunch?” demanded Jordan crossly.\n\n“Daisy invited him; she knew him before we were married—God knows where!”\n\nWe were all irritable now with the fading ale, and aware of it we drove for a while in silence. Then as Doctor T. J. Eckleburg’s faded eyes came into sight down the road, I remembered Gatsby’s caution about gasoline.\n\n“We’ve got enough to get us to town,” said Tom.\n\n“But there’s a garage right here,” objected Jordan. “I don’t want to get stalled in this baking heat.”",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.7315505480277734
+      }
+    ]
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "What suspicious object did George Wilson show Michaelis from his office desk drawer after originally discovering it wrapped in tissue paper on Myrtle's bureau the afternoon before?",
+    "strategy": "C",
+    "gold_page": 139,
+    "evidence_quote": "small, expensive dog-leash, made of leather and braided silver",
+    "hit@1": false,
+    "hit@3": false,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p140_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 140,
+        "text": "“This?” he inquired, holding it up.\n\nWilson stared and nodded.\n\n“I found it yesterday afternoon. She tried to tell me about it, but I knew it was something funny.”\n\n“You mean your wife bought it?”\n\n“She had it wrapped in tissue paper on her bureau.”\n\nMichaelis didn’t see anything odd in that, and he gave Wilson a dozen reasons why his wife might have bought the dog-leash. But conceivably Wilson had heard some of these same explanations before, from Myrtle, because he began saying “Oh, my God!” again in a whisper—his comforter left several explanations in the air.\n\n“Then he killed her,” said Wilson. His mouth dropped open suddenly.\n\n“Who did?”\n\n“I have a way of finding out.”",
+        "metadata": {
+          "chapter": "Chapter 8"
+        },
+        "score": 0.7532387048965863
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p138_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 138,
+        "text": "Until long after midnight a changing crowd lapped up against the front of the garage, while George Wilson rocked himself back and forth on the couch inside. For a while the door of the office was open, and everyone who came into the garage glanced irresistibly through it. Finally someone said it was a shame, and closed the door. Michaelis and several other men were with him; first, four or five men, later two or three men. Still later Michaelis had to ask the last stranger to wait there fifteen minutes longer, while he went back to his own place and made a pot of coffee. After that, he stayed there alone with Wilson until dawn.",
+        "metadata": {
+          "chapter": "Chapter 8"
+        },
+        "score": 0.6686748623911705
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p123_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 123,
+        "text": "Myrtle Wilson’s body, wrapped in a blanket, and then in another blanket, as though she suffered from a chill in the hot night, lay on a worktable by the wall, and Tom, with his back to us, was bending over it, motionless. Next to him stood a motorcycle policeman taking down names with much sweat and correction in a little book. At first I couldn’t find the source of the high, groaning words that echoed clamorously through the bare garage—then I saw Wilson standing on the raised threshold of his office, swaying back and forth and holding to the doorposts with both hands. Some man was talking to him in a low voice and attempting, from time to time, to lay a hand on his shoulder, but Wilson neither heard nor saw. His eyes would drop slowly from the swinging light to the laden table by the wall, and then jerk back to the light again, and he gave out incessantly his high, horrible call:",
+        "metadata": {
+          "chapter": "Chapter 7"
+        },
+        "score": 0.6653535832516871
+      }
+    ]
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "Aside from Nick Carraway, Henry C. Gatz, the Lutheran minister, the West Egg postman, and a few servants who rode in the three-car funeral procession, which former party guest unexpectedly arrived in a separate car at the cemetery gate for Gatsby's burial?",
+    "strategy": "C",
+    "gold_page": 154,
+    "evidence_quote": "It was the man with owl-eyed glasses whom I had found marvelling over Gatsby’s books in the library one night three months before",
+    "hit@1": true,
+    "hit@3": true,
+    "hits": [
+      {
+        "chunk_id": "B_the-great-gatsby_p154_1",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 154,
+        "text": "About five o’clock our procession of three cars reached the cemetery and stopped in a thick drizzle beside the gate—first a motor hearse, horribly black and wet, then Mr. Gatz and the minister and me in the limousine, and a little later four or five servants and the postman from West Egg, in Gatsby’s station wagon, all wet to the skin. As we started through the gate into the cemetery I heard a car stop and then the sound of someone splashing after us over the soggy ground. I looked around. It was the man with owl-eyed glasses whom I had found marvelling over Gatsby’s books in the library one night three months before.",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.7905473358083773
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p154_2",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 154,
+        "text": "I’d never seen him since then. I don’t know how he knew about the funeral, or even his name. The rain poured down his thick glasses, and he took them off and wiped them to see the protecting canvas unrolled from Gatsby’s grave.\n\nI tried to think about Gatsby then for a moment, but he was already too far away, and I could only remember, without resentment, that Daisy hadn’t sent a message or a flower. Dimly I heard someone murmur “Blessed are the dead that the rain falls on,” and then the owl-eyed man said “Amen to that,” in a brave voice.",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.7102206601078063
+      },
+      {
+        "chunk_id": "B_the-great-gatsby_p154_0",
+        "document_id": "the-great-gatsby",
+        "source": "data/the_great_gatsby.html",
+        "page": 154,
+        "text": "He was reluctant to close the book, reading each item aloud and then looking eagerly at me. I think he rather expected me to copy down the list for my own use.\n\nA little before three the Lutheran minister arrived from Flushing, and I began to look involuntarily out the windows for other cars. So did Gatsby’s father. And as the time passed and the servants came in and stood waiting in the hall, his eyes began to blink anxiously, and he spoke of the rain in a worried, uncertain way. The minister glanced several times at his watch, so I took him aside and asked him to wait for half an hour. But it wasn’t any use. Nobody came.",
+        "metadata": {
+          "chapter": "Chapter 9"
+        },
+        "score": 0.6938064833721904
       }
     ]
   }
